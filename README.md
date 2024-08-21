@@ -6,8 +6,6 @@ This repository contains three different algorithmic implementations to match Ge
 2. **Trie-Based Algorithm**
 3. **Nested Loops Algorithm**
 
-Each approach offers a unique method to solve the GL code matching problem, with different trade-offs in terms of complexity and performance.
-
 ## Algorithms Overview
 
 ### 1. Graph-Based Algorithm
