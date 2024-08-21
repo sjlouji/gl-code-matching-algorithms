@@ -1,0 +1,5002 @@
+[
+  {
+    "queryName": "query_1",
+    "result": "gl_code_635",
+    "executionTime": 0.04195800000000105
+  },
+  {
+    "queryName": "query_2",
+    "result": "gl_code_244",
+    "executionTime": 0.014833000000002983
+  },
+  {
+    "queryName": "query_3",
+    "result": "gl_code_65",
+    "executionTime": 0.010041999999998552
+  },
+  {
+    "queryName": "query_4",
+    "result": "gl_code_536",
+    "executionTime": 0.011999999999996902
+  },
+  {
+    "queryName": "query_5",
+    "result": "gl_code_468",
+    "executionTime": 0.010957999999998691
+  },
+  {
+    "queryName": "query_6",
+    "result": "gl_code_141",
+    "executionTime": 0.010958999999999719
+  },
+  {
+    "queryName": "query_7",
+    "result": "gl_code_668",
+    "executionTime": 0.011958000000003466
+  },
+  {
+    "queryName": "query_8",
+    "result": "gl_code_565",
+    "executionTime": 0.009499999999999176
+  },
+  {
+    "queryName": "query_9",
+    "result": "gl_code_477",
+    "executionTime": 0.011957999999999913
+  },
+  {
+    "queryName": "query_10",
+    "result": "gl_code_647",
+    "executionTime": 0.012582999999999345
+  },
+  {
+    "queryName": "query_11",
+    "result": "gl_code_599",
+    "executionTime": 0.009917000000001508
+  },
+  {
+    "queryName": "query_12",
+    "result": "gl_code_186",
+    "executionTime": 0.011041999999999774
+  },
+  {
+    "queryName": "query_13",
+    "result": "gl_code_136",
+    "executionTime": 0.05945900000000037
+  },
+  {
+    "queryName": "query_14",
+    "result": "gl_code_726",
+    "executionTime": 0.010708999999998525
+  },
+  {
+    "queryName": "query_15",
+    "result": "gl_code_565",
+    "executionTime": 0.008084000000000202
+  },
+  {
+    "queryName": "query_16",
+    "result": "gl_code_238",
+    "executionTime": 0.007874999999998522
+  },
+  {
+    "queryName": "query_17",
+    "result": "gl_code_316",
+    "executionTime": 0.010666999999997984
+  },
+  {
+    "queryName": "query_18",
+    "result": "gl_code_306",
+    "executionTime": 0.008791999999999689
+  },
+  {
+    "queryName": "query_19",
+    "result": "gl_code_141",
+    "executionTime": 0.2950000000000017
+  },
+  {
+    "queryName": "query_20",
+    "result": "gl_code_647",
+    "executionTime": 0.010583000000000453
+  },
+  {
+    "queryName": "query_21",
+    "result": "gl_code_88",
+    "executionTime": 0.008917000000000286
+  },
+  {
+    "queryName": "query_22",
+    "result": "gl_code_973",
+    "executionTime": 0.009458000000002187
+  },
+  {
+    "queryName": "query_23",
+    "result": "gl_code_208",
+    "executionTime": 0.007665999999996842
+  },
+  {
+    "queryName": "query_24",
+    "result": "gl_code_15",
+    "executionTime": 0.010000000000001563
+  },
+  {
+    "queryName": "query_25",
+    "result": "gl_code_568",
+    "executionTime": 0.0077920000000020195
+  },
+  {
+    "queryName": "query_26",
+    "result": "gl_code_841",
+    "executionTime": 0.008166000000002782
+  },
+  {
+    "queryName": "query_27",
+    "result": "gl_code_868",
+    "executionTime": 0.009000000000000341
+  },
+  {
+    "queryName": "query_28",
+    "result": "gl_code_956",
+    "executionTime": 0.007791999999998467
+  },
+  {
+    "queryName": "query_29",
+    "result": "gl_code_690",
+    "executionTime": 0.007999999999999119
+  },
+  {
+    "queryName": "query_30",
+    "result": "gl_code_435",
+    "executionTime": 0.007457999999999743
+  },
+  {
+    "queryName": "query_31",
+    "result": "gl_code_88",
+    "executionTime": 0.008124999999999716
+  },
+  {
+    "queryName": "query_32",
+    "result": "gl_code_21",
+    "executionTime": 0.006750000000000256
+  },
+  {
+    "queryName": "query_33",
+    "result": "gl_code_855",
+    "executionTime": 0.008625000000002103
+  },
+  {
+    "queryName": "query_34",
+    "result": "gl_code_448",
+    "executionTime": 0.007291999999999632
+  },
+  {
+    "queryName": "query_35",
+    "result": "gl_code_12",
+    "executionTime": 0.007667000000001423
+  },
+  {
+    "queryName": "query_36",
+    "result": "gl_code_479",
+    "executionTime": 0.008959000000000827
+  },
+  {
+    "queryName": "query_37",
+    "result": "gl_code_660",
+    "executionTime": 0.010500000000000398
+  },
+  {
+    "queryName": "query_38",
+    "result": "gl_code_334",
+    "executionTime": 0.008791999999999689
+  },
+  {
+    "queryName": "query_39",
+    "result": "gl_code_161",
+    "executionTime": 0.0064589999999995484
+  },
+  {
+    "queryName": "query_40",
+    "result": "gl_code_555",
+    "executionTime": 0.007459000000000771
+  },
+  {
+    "queryName": "query_41",
+    "result": "gl_code_371",
+    "executionTime": 0.0064170000000025595
+  },
+  {
+    "queryName": "query_42",
+    "result": "gl_code_633",
+    "executionTime": 0.00941699999999912
+  },
+  {
+    "queryName": "query_43",
+    "result": "gl_code_298",
+    "executionTime": 0.007291000000002157
+  },
+  {
+    "queryName": "query_44",
+    "result": "gl_code_161",
+    "executionTime": 0.00629199999999841
+  },
+  {
+    "queryName": "query_45",
+    "result": "gl_code_212",
+    "executionTime": 0.0087500000000027
+  },
+  {
+    "queryName": "query_46",
+    "result": "gl_code_629",
+    "executionTime": 0.007916999999999064
+  },
+  {
+    "queryName": "query_47",
+    "result": "gl_code_200",
+    "executionTime": 0.007750000000001478
+  },
+  {
+    "queryName": "query_48",
+    "result": "gl_code_339",
+    "executionTime": 0.10762499999999875
+  },
+  {
+    "queryName": "query_49",
+    "result": "gl_code_513",
+    "executionTime": 0.013124999999998721
+  },
+  {
+    "queryName": "query_50",
+    "result": "gl_code_244",
+    "executionTime": 0.007625000000000881
+  },
+  {
+    "queryName": "query_51",
+    "result": "gl_code_143",
+    "executionTime": 0.009874999999997414
+  },
+  {
+    "queryName": "query_52",
+    "result": "gl_code_917",
+    "executionTime": 0.009249999999997982
+  },
+  {
+    "queryName": "query_53",
+    "result": "gl_code_568",
+    "executionTime": 0.009582999999999231
+  },
+  {
+    "queryName": "query_54",
+    "result": "gl_code_732",
+    "executionTime": 0.00837500000000091
+  },
+  {
+    "queryName": "query_55",
+    "result": "gl_code_361",
+    "executionTime": 0.008250000000000313
+  },
+  {
+    "queryName": "query_56",
+    "result": "gl_code_418",
+    "executionTime": 0.006083000000000283
+  },
+  {
+    "queryName": "query_57",
+    "result": "gl_code_186",
+    "executionTime": 0.008416999999997898
+  },
+  {
+    "queryName": "query_58",
+    "result": "gl_code_56",
+    "executionTime": 0.009292000000002076
+  },
+  {
+    "queryName": "query_59",
+    "result": "gl_code_568",
+    "executionTime": 0.009707999999999828
+  },
+  {
+    "queryName": "query_60",
+    "result": "gl_code_212",
+    "executionTime": 0.009332999999998037
+  },
+  {
+    "queryName": "query_61",
+    "result": "gl_code_410",
+    "executionTime": 0.007041999999998438
+  },
+  {
+    "queryName": "query_62",
+    "result": "gl_code_248",
+    "executionTime": 0.009624999999999773
+  },
+  {
+    "queryName": "query_63",
+    "result": "gl_code_146",
+    "executionTime": 0.008541999999998495
+  },
+  {
+    "queryName": "query_64",
+    "result": "gl_code_556",
+    "executionTime": 0.009084000000001424
+  },
+  {
+    "queryName": "query_65",
+    "result": "gl_code_439",
+    "executionTime": 0.010124999999998607
+  },
+  {
+    "queryName": "query_66",
+    "result": "gl_code_123",
+    "executionTime": 0.009333999999999065
+  },
+  {
+    "queryName": "query_67",
+    "result": "gl_code_699",
+    "executionTime": 0.009874999999997414
+  },
+  {
+    "queryName": "query_68",
+    "result": "gl_code_117",
+    "executionTime": 0.008250000000000313
+  },
+  {
+    "queryName": "query_69",
+    "result": "gl_code_934",
+    "executionTime": 0.007417000000000229
+  },
+  {
+    "queryName": "query_70",
+    "result": "gl_code_573",
+    "executionTime": 0.008167000000000257
+  },
+  {
+    "queryName": "query_71",
+    "result": "gl_code_100",
+    "executionTime": 0.007666000000000395
+  },
+  {
+    "queryName": "query_72",
+    "result": "gl_code_72",
+    "executionTime": 0.009125000000000938
+  },
+  {
+    "queryName": "query_73",
+    "result": "gl_code_784",
+    "executionTime": 0.008000000000002672
+  },
+  {
+    "queryName": "query_74",
+    "result": "gl_code_647",
+    "executionTime": 0.007084000000002533
+  },
+  {
+    "queryName": "query_75",
+    "result": "gl_code_537",
+    "executionTime": 0.007625000000000881
+  },
+  {
+    "queryName": "query_76",
+    "result": "gl_code_841",
+    "executionTime": 0.008167000000000257
+  },
+  {
+    "queryName": "query_77",
+    "result": "gl_code_117",
+    "executionTime": 0.009249999999997982
+  },
+  {
+    "queryName": "query_78",
+    "result": "gl_code_238",
+    "executionTime": 0.009499999999999176
+  },
+  {
+    "queryName": "query_79",
+    "result": "gl_code_902",
+    "executionTime": 0.008292000000000854
+  },
+  {
+    "queryName": "query_80",
+    "result": "gl_code_141",
+    "executionTime": 0.009874999999997414
+  },
+  {
+    "queryName": "query_81",
+    "result": "gl_code_1",
+    "executionTime": 0.010041999999998552
+  },
+  {
+    "queryName": "query_82",
+    "result": "gl_code_375",
+    "executionTime": 0.008874999999999744
+  },
+  {
+    "queryName": "query_83",
+    "result": "gl_code_189",
+    "executionTime": 0.008708999999999634
+  },
+  {
+    "queryName": "query_84",
+    "result": "gl_code_691",
+    "executionTime": 0.006499999999999062
+  },
+  {
+    "queryName": "query_85",
+    "result": "gl_code_474",
+    "executionTime": 0.01012500000000216
+  },
+  {
+    "queryName": "query_86",
+    "result": "gl_code_662",
+    "executionTime": 0.009125000000000938
+  },
+  {
+    "queryName": "query_87",
+    "result": "gl_code_143",
+    "executionTime": 0.009833000000000425
+  },
+  {
+    "queryName": "query_88",
+    "result": "gl_code_31",
+    "executionTime": 0.00999999999999801
+  },
+  {
+    "queryName": "query_89",
+    "result": "gl_code_943",
+    "executionTime": 0.008500000000001506
+  },
+  {
+    "queryName": "query_90",
+    "result": "gl_code_996",
+    "executionTime": 0.009042000000000883
+  },
+  {
+    "queryName": "query_91",
+    "result": "gl_code_56",
+    "executionTime": 0.008667000000002645
+  },
+  {
+    "queryName": "query_92",
+    "result": "gl_code_334",
+    "executionTime": 0.009541999999999717
+  },
+  {
+    "queryName": "query_93",
+    "result": "gl_code_502",
+    "executionTime": 0.009584000000000259
+  },
+  {
+    "queryName": "query_94",
+    "result": "gl_code_146",
+    "executionTime": 0.007374999999999687
+  },
+  {
+    "queryName": "query_95",
+    "result": "gl_code_768",
+    "executionTime": 0.0089579999999998
+  },
+  {
+    "queryName": "query_96",
+    "result": "gl_code_616",
+    "executionTime": 0.008791999999999689
+  },
+  {
+    "queryName": "query_97",
+    "result": "gl_code_21",
+    "executionTime": 0.008959000000000827
+  },
+  {
+    "queryName": "query_98",
+    "result": "gl_code_236",
+    "executionTime": 0.008250000000000313
+  },
+  {
+    "queryName": "query_99",
+    "result": "gl_code_366",
+    "executionTime": 0.008749999999999147
+  },
+  {
+    "queryName": "query_100",
+    "result": "gl_code_157",
+    "executionTime": 0.008000000000002672
+  },
+  {
+    "queryName": "query_101",
+    "result": "gl_code_450",
+    "executionTime": 0.009666999999996762
+  },
+  {
+    "queryName": "query_102",
+    "result": "gl_code_146",
+    "executionTime": 0.010583000000000453
+  },
+  {
+    "queryName": "query_103",
+    "result": "gl_code_494",
+    "executionTime": 0.010374999999999801
+  },
+  {
+    "queryName": "query_104",
+    "result": "gl_code_602",
+    "executionTime": 0.010374999999999801
+  },
+  {
+    "queryName": "query_105",
+    "result": "gl_code_165",
+    "executionTime": 0.009291999999998524
+  },
+  {
+    "queryName": "query_106",
+    "result": "gl_code_244",
+    "executionTime": 0.012042000000000996
+  },
+  {
+    "queryName": "query_107",
+    "result": "gl_code_326",
+    "executionTime": 0.008583999999999037
+  },
+  {
+    "queryName": "query_108",
+    "result": "gl_code_245",
+    "executionTime": 0.012667000000000428
+  },
+  {
+    "queryName": "query_109",
+    "result": "gl_code_525",
+    "executionTime": 0.00837500000000091
+  },
+  {
+    "queryName": "query_110",
+    "result": "gl_code_990",
+    "executionTime": 0.011041000000002299
+  },
+  {
+    "queryName": "query_111",
+    "result": "gl_code_79",
+    "executionTime": 0.009334000000002618
+  },
+  {
+    "queryName": "query_112",
+    "result": "gl_code_475",
+    "executionTime": 0.010792000000002133
+  },
+  {
+    "queryName": "query_113",
+    "result": "gl_code_69",
+    "executionTime": 0.009458000000002187
+  },
+  {
+    "queryName": "query_114",
+    "result": "gl_code_210",
+    "executionTime": 0.007500000000000284
+  },
+  {
+    "queryName": "query_115",
+    "result": "gl_code_917",
+    "executionTime": 0.009833000000000425
+  },
+  {
+    "queryName": "query_116",
+    "result": "gl_code_273",
+    "executionTime": 0.006000000000000227
+  },
+  {
+    "queryName": "query_117",
+    "result": "gl_code_63",
+    "executionTime": 0.010417000000000343
+  },
+  {
+    "queryName": "query_118",
+    "result": "gl_code_159",
+    "executionTime": 0.007041000000000963
+  },
+  {
+    "queryName": "query_119",
+    "result": "gl_code_198",
+    "executionTime": 0.008207999999999771
+  },
+  {
+    "queryName": "query_120",
+    "result": "gl_code_645",
+    "executionTime": 0.008166000000002782
+  },
+  {
+    "queryName": "query_121",
+    "result": "gl_code_75",
+    "executionTime": 0.010374999999999801
+  },
+  {
+    "queryName": "query_122",
+    "result": "gl_code_335",
+    "executionTime": 0.008542000000002048
+  },
+  {
+    "queryName": "query_123",
+    "result": "gl_code_500",
+    "executionTime": 0.008167000000000257
+  },
+  {
+    "queryName": "query_124",
+    "result": "gl_code_917",
+    "executionTime": 0.010166000000001674
+  },
+  {
+    "queryName": "query_125",
+    "result": "gl_code_973",
+    "executionTime": 0.009000000000000341
+  },
+  {
+    "queryName": "query_126",
+    "result": "gl_code_416",
+    "executionTime": 0.008333000000000368
+  },
+  {
+    "queryName": "query_127",
+    "result": "gl_code_617",
+    "executionTime": 0.007666000000000395
+  },
+  {
+    "queryName": "query_128",
+    "result": "gl_code_316",
+    "executionTime": 0.009958000000001022
+  },
+  {
+    "queryName": "query_129",
+    "result": "gl_code_569",
+    "executionTime": 0.009458999999999662
+  },
+  {
+    "queryName": "query_130",
+    "result": "gl_code_308",
+    "executionTime": 0.008791999999999689
+  },
+  {
+    "queryName": "query_131",
+    "result": "gl_code_410",
+    "executionTime": 0.007041999999998438
+  },
+  {
+    "queryName": "query_132",
+    "result": "gl_code_537",
+    "executionTime": 0.009333999999999065
+  },
+  {
+    "queryName": "query_133",
+    "result": "gl_code_932",
+    "executionTime": 0.008583999999999037
+  },
+  {
+    "queryName": "query_134",
+    "result": "gl_code_274",
+    "executionTime": 0.009458000000002187
+  },
+  {
+    "queryName": "query_135",
+    "result": "gl_code_701",
+    "executionTime": 0.007917000000002616
+  },
+  {
+    "queryName": "query_136",
+    "result": "gl_code_261",
+    "executionTime": 0.010249999999999204
+  },
+  {
+    "queryName": "query_137",
+    "result": "gl_code_457",
+    "executionTime": 0.00854100000000102
+  },
+  {
+    "queryName": "query_138",
+    "result": "gl_code_123",
+    "executionTime": 0.007167000000002588
+  },
+  {
+    "queryName": "query_139",
+    "result": "gl_code_272",
+    "executionTime": 0.009458000000002187
+  },
+  {
+    "queryName": "query_140",
+    "result": "gl_code_617",
+    "executionTime": 0.007708000000000936
+  },
+  {
+    "queryName": "query_141",
+    "result": "gl_code_573",
+    "executionTime": 0.009707999999999828
+  },
+  {
+    "queryName": "query_142",
+    "result": "gl_code_633",
+    "executionTime": 0.009957999999997469
+  },
+  {
+    "queryName": "query_143",
+    "result": "gl_code_719",
+    "executionTime": 0.008583000000001562
+  },
+  {
+    "queryName": "query_144",
+    "result": "gl_code_583",
+    "executionTime": 0.009083000000000396
+  },
+  {
+    "queryName": "query_145",
+    "result": "gl_code_320",
+    "executionTime": 0.005915999999999144
+  },
+  {
+    "queryName": "query_146",
+    "result": "gl_code_339",
+    "executionTime": 0.009083000000000396
+  },
+  {
+    "queryName": "query_147",
+    "result": "gl_code_56",
+    "executionTime": 0.008832999999999203
+  },
+  {
+    "queryName": "query_148",
+    "result": "gl_code_668",
+    "executionTime": 0.008707999999998606
+  },
+  {
+    "queryName": "query_149",
+    "result": "gl_code_366",
+    "executionTime": 0.008499999999997954
+  },
+  {
+    "queryName": "query_150",
+    "result": "gl_code_40",
+    "executionTime": 0.008250000000000313
+  },
+  {
+    "queryName": "query_151",
+    "result": "gl_code_592",
+    "executionTime": 0.007708000000000936
+  },
+  {
+    "queryName": "query_152",
+    "result": "gl_code_719",
+    "executionTime": 0.008832999999999203
+  },
+  {
+    "queryName": "query_153",
+    "result": "gl_code_568",
+    "executionTime": 0.0070000000000014495
+  },
+  {
+    "queryName": "query_154",
+    "result": "gl_code_56",
+    "executionTime": 0.008207999999999771
+  },
+  {
+    "queryName": "query_155",
+    "result": "gl_code_76",
+    "executionTime": 0.008416000000000423
+  },
+  {
+    "queryName": "query_156",
+    "result": "gl_code_690",
+    "executionTime": 0.008583000000001562
+  },
+  {
+    "queryName": "query_157",
+    "result": "gl_code_1",
+    "executionTime": 0.010374999999999801
+  },
+  {
+    "queryName": "query_158",
+    "result": "gl_code_702",
+    "executionTime": 0.009875000000000966
+  },
+  {
+    "queryName": "query_159",
+    "result": "gl_code_645",
+    "executionTime": 0.0070000000000014495
+  },
+  {
+    "queryName": "query_160",
+    "result": "gl_code_961",
+    "executionTime": 0.007041999999998438
+  },
+  {
+    "queryName": "query_161",
+    "result": "gl_code_285",
+    "executionTime": 0.009417000000002673
+  },
+  {
+    "queryName": "query_162",
+    "result": "gl_code_197",
+    "executionTime": 0.00795800000000213
+  },
+  {
+    "queryName": "query_163",
+    "result": "gl_code_56",
+    "executionTime": 0.00783299999999798
+  },
+  {
+    "queryName": "query_164",
+    "result": "gl_code_812",
+    "executionTime": 0.009000000000000341
+  },
+  {
+    "queryName": "query_165",
+    "result": "gl_code_273",
+    "executionTime": 0.006540999999998576
+  },
+  {
+    "queryName": "query_166",
+    "result": "gl_code_843",
+    "executionTime": 0.009958000000001022
+  },
+  {
+    "queryName": "query_167",
+    "result": "gl_code_672",
+    "executionTime": 0.01012500000000216
+  },
+  {
+    "queryName": "query_168",
+    "result": "gl_code_203",
+    "executionTime": 0.00824999999999676
+  },
+  {
+    "queryName": "query_169",
+    "result": "gl_code_72",
+    "executionTime": 0.00824999999999676
+  },
+  {
+    "queryName": "query_170",
+    "result": "gl_code_515",
+    "executionTime": 0.01012500000000216
+  },
+  {
+    "queryName": "query_171",
+    "result": "gl_code_339",
+    "executionTime": 0.009374999999998579
+  },
+  {
+    "queryName": "query_172",
+    "result": "gl_code_339",
+    "executionTime": 0.010249999999999204
+  },
+  {
+    "queryName": "query_173",
+    "result": "gl_code_320",
+    "executionTime": 0.006917000000001394
+  },
+  {
+    "queryName": "query_174",
+    "result": "gl_code_841",
+    "executionTime": 0.007707999999997384
+  },
+  {
+    "queryName": "query_175",
+    "result": "gl_code_56",
+    "executionTime": 0.007667000000001423
+  },
+  {
+    "queryName": "query_176",
+    "result": "gl_code_212",
+    "executionTime": 0.00837500000000091
+  },
+  {
+    "queryName": "query_177",
+    "result": "gl_code_294",
+    "executionTime": 0.007916999999999064
+  },
+  {
+    "queryName": "query_178",
+    "result": "gl_code_974",
+    "executionTime": 0.008416000000000423
+  },
+  {
+    "queryName": "query_179",
+    "result": "gl_code_143",
+    "executionTime": 0.010625000000000995
+  },
+  {
+    "queryName": "query_180",
+    "result": "gl_code_65",
+    "executionTime": 0.007916999999999064
+  },
+  {
+    "queryName": "query_181",
+    "result": "gl_code_932",
+    "executionTime": 0.008458000000000965
+  },
+  {
+    "queryName": "query_182",
+    "result": "gl_code_423",
+    "executionTime": 0.01054200000000094
+  },
+  {
+    "queryName": "query_183",
+    "result": "gl_code_565",
+    "executionTime": 0.008292000000000854
+  },
+  {
+    "queryName": "query_184",
+    "result": "gl_code_477",
+    "executionTime": 0.007916999999999064
+  },
+  {
+    "queryName": "query_185",
+    "result": "gl_code_568",
+    "executionTime": 0.009209000000002021
+  },
+  {
+    "queryName": "query_186",
+    "result": "gl_code_106",
+    "executionTime": 0.009667000000000314
+  },
+  {
+    "queryName": "query_187",
+    "result": "gl_code_568",
+    "executionTime": 0.008707999999998606
+  },
+  {
+    "queryName": "query_188",
+    "result": "gl_code_542",
+    "executionTime": 0.008583000000001562
+  },
+  {
+    "queryName": "query_189",
+    "result": "gl_code_645",
+    "executionTime": 0.008707999999998606
+  },
+  {
+    "queryName": "query_190",
+    "result": "gl_code_336",
+    "executionTime": 0.011084000000000316
+  },
+  {
+    "queryName": "query_191",
+    "result": "gl_code_666",
+    "executionTime": 0.008332999999996815
+  },
+  {
+    "queryName": "query_192",
+    "result": "gl_code_515",
+    "executionTime": 0.032667
+  },
+  {
+    "queryName": "query_193",
+    "result": "gl_code_196",
+    "executionTime": 0.006083000000000283
+  },
+  {
+    "queryName": "query_194",
+    "result": "gl_code_485",
+    "executionTime": 0.007082999999997952
+  },
+  {
+    "queryName": "query_195",
+    "result": "gl_code_616",
+    "executionTime": 0.007208999999999577
+  },
+  {
+    "queryName": "query_196",
+    "result": "gl_code_146",
+    "executionTime": 0.004999999999999005
+  },
+  {
+    "queryName": "query_197",
+    "result": "gl_code_592",
+    "executionTime": 0.006458000000002073
+  },
+  {
+    "queryName": "query_198",
+    "result": "gl_code_812",
+    "executionTime": 0.007415999999999201
+  },
+  {
+    "queryName": "query_199",
+    "result": "gl_code_68",
+    "executionTime": 0.006416000000001532
+  },
+  {
+    "queryName": "query_200",
+    "result": "gl_code_161",
+    "executionTime": 0.004999999999999005
+  },
+  {
+    "queryName": "query_201",
+    "result": "gl_code_726",
+    "executionTime": 0.005459000000001879
+  },
+  {
+    "queryName": "query_202",
+    "result": "gl_code_377",
+    "executionTime": 0.006334000000002504
+  },
+  {
+    "queryName": "query_203",
+    "result": "gl_code_72",
+    "executionTime": 0.008665999999998064
+  },
+  {
+    "queryName": "query_204",
+    "result": "gl_code_568",
+    "executionTime": 0.006042000000000769
+  },
+  {
+    "queryName": "query_205",
+    "result": "gl_code_146",
+    "executionTime": 0.005666999999998978
+  },
+  {
+    "queryName": "query_206",
+    "result": "gl_code_475",
+    "executionTime": 0.008291999999997302
+  },
+  {
+    "queryName": "query_207",
+    "result": "gl_code_358",
+    "executionTime": 0.005832999999999089
+  },
+  {
+    "queryName": "query_208",
+    "result": "gl_code_523",
+    "executionTime": 0.007042000000001991
+  },
+  {
+    "queryName": "query_209",
+    "result": "gl_code_446",
+    "executionTime": 0.0052920000000007406
+  },
+  {
+    "queryName": "query_210",
+    "result": "gl_code_192",
+    "executionTime": 0.005208999999997133
+  },
+  {
+    "queryName": "query_211",
+    "result": "gl_code_299",
+    "executionTime": 0.0062080000000008795
+  },
+  {
+    "queryName": "query_212",
+    "result": "gl_code_112",
+    "executionTime": 0.0052920000000007406
+  },
+  {
+    "queryName": "query_213",
+    "result": "gl_code_990",
+    "executionTime": 0.006499999999999062
+  },
+  {
+    "queryName": "query_214",
+    "result": "gl_code_273",
+    "executionTime": 0.005875000000003183
+  },
+  {
+    "queryName": "query_215",
+    "result": "gl_code_691",
+    "executionTime": 0.007250000000002643
+  },
+  {
+    "queryName": "query_216",
+    "result": "gl_code_56",
+    "executionTime": 0.005540999999997354
+  },
+  {
+    "queryName": "query_217",
+    "result": "gl_code_63",
+    "executionTime": 0.006500000000002615
+  },
+  {
+    "queryName": "query_218",
+    "result": "gl_code_367",
+    "executionTime": 0.008167000000000257
+  },
+  {
+    "queryName": "query_219",
+    "result": "gl_code_112",
+    "executionTime": 0.004332999999999032
+  },
+  {
+    "queryName": "query_220",
+    "result": "gl_code_831",
+    "executionTime": 0.005166999999996591
+  },
+  {
+    "queryName": "query_221",
+    "result": "gl_code_234",
+    "executionTime": 0.005791999999999575
+  },
+  {
+    "queryName": "query_222",
+    "result": "gl_code_841",
+    "executionTime": 0.00804199999999966
+  },
+  {
+    "queryName": "query_223",
+    "result": "gl_code_179",
+    "executionTime": 0.0072499999999990905
+  },
+  {
+    "queryName": "query_224",
+    "result": "gl_code_189",
+    "executionTime": 0.006875000000000853
+  },
+  {
+    "queryName": "query_225",
+    "result": "gl_code_106",
+    "executionTime": 0.006000000000000227
+  },
+  {
+    "queryName": "query_226",
+    "result": "gl_code_117",
+    "executionTime": 0.004999999999999005
+  },
+  {
+    "queryName": "query_227",
+    "result": "gl_code_371",
+    "executionTime": 0.006042000000000769
+  },
+  {
+    "queryName": "query_228",
+    "result": "gl_code_294",
+    "executionTime": 0.006167000000001366
+  },
+  {
+    "queryName": "query_229",
+    "result": "gl_code_574",
+    "executionTime": 0.006624999999999659
+  },
+  {
+    "queryName": "query_230",
+    "result": "gl_code_117",
+    "executionTime": 0.004457999999999629
+  },
+  {
+    "queryName": "query_231",
+    "result": "gl_code_12",
+    "executionTime": 0.006249999999997868
+  },
+  {
+    "queryName": "query_232",
+    "result": "gl_code_975",
+    "executionTime": 0.006666000000002725
+  },
+  {
+    "queryName": "query_233",
+    "result": "gl_code_23",
+    "executionTime": 0.007791999999998467
+  },
+  {
+    "queryName": "query_234",
+    "result": "gl_code_851",
+    "executionTime": 0.008167000000000257
+  },
+  {
+    "queryName": "query_235",
+    "result": "gl_code_989",
+    "executionTime": 0.006792000000000797
+  },
+  {
+    "queryName": "query_236",
+    "result": "gl_code_841",
+    "executionTime": 0.005917000000000172
+  },
+  {
+    "queryName": "query_237",
+    "result": "gl_code_662",
+    "executionTime": 0.00491699999999895
+  },
+  {
+    "queryName": "query_238",
+    "result": "gl_code_840",
+    "executionTime": 0.0070000000000014495
+  },
+  {
+    "queryName": "query_239",
+    "result": "gl_code_550",
+    "executionTime": 0.006332999999997924
+  },
+  {
+    "queryName": "query_240",
+    "result": "gl_code_56",
+    "executionTime": 0.004708999999998298
+  },
+  {
+    "queryName": "query_241",
+    "result": "gl_code_430",
+    "executionTime": 0.005666000000001503
+  },
+  {
+    "queryName": "query_242",
+    "result": "gl_code_238",
+    "executionTime": 0.0056250000000019895
+  },
+  {
+    "queryName": "query_243",
+    "result": "gl_code_317",
+    "executionTime": 0.005834000000000117
+  },
+  {
+    "queryName": "query_244",
+    "result": "gl_code_499",
+    "executionTime": 0.006416999999999007
+  },
+  {
+    "queryName": "query_245",
+    "result": "gl_code_439",
+    "executionTime": 0.00549999999999784
+  },
+  {
+    "queryName": "query_246",
+    "result": "gl_code_146",
+    "executionTime": 0.005500000000001393
+  },
+  {
+    "queryName": "query_247",
+    "result": "gl_code_568",
+    "executionTime": 0.004832999999997867
+  },
+  {
+    "queryName": "query_248",
+    "result": "gl_code_196",
+    "executionTime": 0.00520800000000321
+  },
+  {
+    "queryName": "query_249",
+    "result": "gl_code_602",
+    "executionTime": 0.006833000000000311
+  },
+  {
+    "queryName": "query_250",
+    "result": "gl_code_896",
+    "executionTime": 0.006125000000000824
+  },
+  {
+    "queryName": "query_251",
+    "result": "gl_code_56",
+    "executionTime": 0.006333000000001476
+  },
+  {
+    "queryName": "query_252",
+    "result": "gl_code_843",
+    "executionTime": 0.007334000000000174
+  },
+  {
+    "queryName": "query_253",
+    "result": "gl_code_136",
+    "executionTime": 0.004540999999999684
+  },
+  {
+    "queryName": "query_254",
+    "result": "gl_code_896",
+    "executionTime": 0.005832999999999089
+  },
+  {
+    "queryName": "query_255",
+    "result": "gl_code_430",
+    "executionTime": 0.005917000000000172
+  },
+  {
+    "queryName": "query_256",
+    "result": "gl_code_755",
+    "executionTime": 0.007334000000000174
+  },
+  {
+    "queryName": "query_257",
+    "result": "gl_code_64",
+    "executionTime": 0.005583000000001448
+  },
+  {
+    "queryName": "query_258",
+    "result": "gl_code_24",
+    "executionTime": 0.005957999999999686
+  },
+  {
+    "queryName": "query_259",
+    "result": "gl_code_768",
+    "executionTime": 0.006624999999999659
+  },
+  {
+    "queryName": "query_260",
+    "result": "gl_code_423",
+    "executionTime": 0.0056250000000019895
+  },
+  {
+    "queryName": "query_261",
+    "result": "gl_code_143",
+    "executionTime": 0.006250000000001421
+  },
+  {
+    "queryName": "query_262",
+    "result": "gl_code_973",
+    "executionTime": 0.006624999999999659
+  },
+  {
+    "queryName": "query_263",
+    "result": "gl_code_215",
+    "executionTime": 0.004540999999999684
+  },
+  {
+    "queryName": "query_264",
+    "result": "gl_code_668",
+    "executionTime": 0.0056250000000019895
+  },
+  {
+    "queryName": "query_265",
+    "result": "gl_code_495",
+    "executionTime": 0.005791999999999575
+  },
+  {
+    "queryName": "query_266",
+    "result": "gl_code_74",
+    "executionTime": 0.007415999999999201
+  },
+  {
+    "queryName": "query_267",
+    "result": "gl_code_104",
+    "executionTime": 0.004832999999997867
+  },
+  {
+    "queryName": "query_268",
+    "result": "gl_code_568",
+    "executionTime": 0.0058749999999996305
+  },
+  {
+    "queryName": "query_269",
+    "result": "gl_code_238",
+    "executionTime": 0.005542000000001934
+  },
+  {
+    "queryName": "query_270",
+    "result": "gl_code_499",
+    "executionTime": 0.0056659999999979505
+  },
+  {
+    "queryName": "query_271",
+    "result": "gl_code_317",
+    "executionTime": 0.006167000000001366
+  },
+  {
+    "queryName": "query_272",
+    "result": "gl_code_12",
+    "executionTime": 0.006792000000000797
+  },
+  {
+    "queryName": "query_273",
+    "result": "gl_code_768",
+    "executionTime": 0.005124999999999602
+  },
+  {
+    "queryName": "query_274",
+    "result": "gl_code_308",
+    "executionTime": 0.0050829999999990605
+  },
+  {
+    "queryName": "query_275",
+    "result": "gl_code_378",
+    "executionTime": 0.004999999999999005
+  },
+  {
+    "queryName": "query_276",
+    "result": "gl_code_159",
+    "executionTime": 0.006125000000000824
+  },
+  {
+    "queryName": "query_277",
+    "result": "gl_code_210",
+    "executionTime": 0.005124999999999602
+  },
+  {
+    "queryName": "query_278",
+    "result": "gl_code_146",
+    "executionTime": 0.004584000000001254
+  },
+  {
+    "queryName": "query_279",
+    "result": "gl_code_244",
+    "executionTime": 0.005749999999999034
+  },
+  {
+    "queryName": "query_280",
+    "result": "gl_code_568",
+    "executionTime": 0.005750000000002586
+  },
+  {
+    "queryName": "query_281",
+    "result": "gl_code_423",
+    "executionTime": 0.006958000000000908
+  },
+  {
+    "queryName": "query_282",
+    "result": "gl_code_308",
+    "executionTime": 0.006584000000000145
+  },
+  {
+    "queryName": "query_283",
+    "result": "gl_code_161",
+    "executionTime": 0.00549999999999784
+  },
+  {
+    "queryName": "query_284",
+    "result": "gl_code_927",
+    "executionTime": 0.005167000000000144
+  },
+  {
+    "queryName": "query_285",
+    "result": "gl_code_562",
+    "executionTime": 0.0058749999999996305
+  },
+  {
+    "queryName": "query_286",
+    "result": "gl_code_270",
+    "executionTime": 0.0065410000000021284
+  },
+  {
+    "queryName": "query_287",
+    "result": "gl_code_374",
+    "executionTime": 0.005458999999998326
+  },
+  {
+    "queryName": "query_288",
+    "result": "gl_code_231",
+    "executionTime": 0.006375000000002018
+  },
+  {
+    "queryName": "query_289",
+    "result": "gl_code_574",
+    "executionTime": 0.004708000000000823
+  },
+  {
+    "queryName": "query_290",
+    "result": "gl_code_56",
+    "executionTime": 0.006499999999999062
+  },
+  {
+    "queryName": "query_291",
+    "result": "gl_code_272",
+    "executionTime": 0.006207999999997327
+  },
+  {
+    "queryName": "query_292",
+    "result": "gl_code_537",
+    "executionTime": 0.005291999999997188
+  },
+  {
+    "queryName": "query_293",
+    "result": "gl_code_56",
+    "executionTime": 0.006624999999999659
+  },
+  {
+    "queryName": "query_294",
+    "result": "gl_code_339",
+    "executionTime": 0.006000000000000227
+  },
+  {
+    "queryName": "query_295",
+    "result": "gl_code_843",
+    "executionTime": 0.005624999999998437
+  },
+  {
+    "queryName": "query_296",
+    "result": "gl_code_244",
+    "executionTime": 0.005957999999999686
+  },
+  {
+    "queryName": "query_297",
+    "result": "gl_code_568",
+    "executionTime": 0.006041999999997216
+  },
+  {
+    "queryName": "query_298",
+    "result": "gl_code_774",
+    "executionTime": 0.006750000000000256
+  },
+  {
+    "queryName": "query_299",
+    "result": "gl_code_792",
+    "executionTime": 0.0052920000000007406
+  },
+  {
+    "queryName": "query_300",
+    "result": "gl_code_63",
+    "executionTime": 0.007416000000002754
+  },
+  {
+    "queryName": "query_301",
+    "result": "gl_code_504",
+    "executionTime": 0.005167000000000144
+  },
+  {
+    "queryName": "query_302",
+    "result": "gl_code_841",
+    "executionTime": 0.005417000000001337
+  },
+  {
+    "queryName": "query_303",
+    "result": "gl_code_686",
+    "executionTime": 0.007625000000000881
+  },
+  {
+    "queryName": "query_304",
+    "result": "gl_code_159",
+    "executionTime": 0.006000000000000227
+  },
+  {
+    "queryName": "query_305",
+    "result": "gl_code_68",
+    "executionTime": 0.005666999999998978
+  },
+  {
+    "queryName": "query_306",
+    "result": "gl_code_917",
+    "executionTime": 0.006999999999997897
+  },
+  {
+    "queryName": "query_307",
+    "result": "gl_code_841",
+    "executionTime": 0.006083000000000283
+  },
+  {
+    "queryName": "query_308",
+    "result": "gl_code_973",
+    "executionTime": 0.005875000000003183
+  },
+  {
+    "queryName": "query_309",
+    "result": "gl_code_928",
+    "executionTime": 0.006999999999997897
+  },
+  {
+    "queryName": "query_310",
+    "result": "gl_code_255",
+    "executionTime": 0.006166999999997813
+  },
+  {
+    "queryName": "query_311",
+    "result": "gl_code_56",
+    "executionTime": 0.005791999999999575
+  },
+  {
+    "queryName": "query_312",
+    "result": "gl_code_352",
+    "executionTime": 0.006584000000000145
+  },
+  {
+    "queryName": "query_313",
+    "result": "gl_code_468",
+    "executionTime": 0.0050829999999990605
+  },
+  {
+    "queryName": "query_314",
+    "result": "gl_code_660",
+    "executionTime": 0.006041999999997216
+  },
+  {
+    "queryName": "query_315",
+    "result": "gl_code_668",
+    "executionTime": 0.00862499999999855
+  },
+  {
+    "queryName": "query_316",
+    "result": "gl_code_197",
+    "executionTime": 0.006334000000002504
+  },
+  {
+    "queryName": "query_317",
+    "result": "gl_code_423",
+    "executionTime": 0.006875000000000853
+  },
+  {
+    "queryName": "query_318",
+    "result": "gl_code_244",
+    "executionTime": 0.005041999999999547
+  },
+  {
+    "queryName": "query_319",
+    "result": "gl_code_468",
+    "executionTime": 0.006707999999999714
+  },
+  {
+    "queryName": "query_320",
+    "result": "gl_code_740",
+    "executionTime": 0.007458000000003295
+  },
+  {
+    "queryName": "query_321",
+    "result": "gl_code_668",
+    "executionTime": 0.005917000000000172
+  },
+  {
+    "queryName": "query_322",
+    "result": "gl_code_12",
+    "executionTime": 0.006791999999997245
+  },
+  {
+    "queryName": "query_323",
+    "result": "gl_code_371",
+    "executionTime": 0.005959000000000714
+  },
+  {
+    "queryName": "query_324",
+    "result": "gl_code_884",
+    "executionTime": 0.005165999999999116
+  },
+  {
+    "queryName": "query_325",
+    "result": "gl_code_985",
+    "executionTime": 0.007750000000001478
+  },
+  {
+    "queryName": "query_326",
+    "result": "gl_code_570",
+    "executionTime": 0.007291999999999632
+  },
+  {
+    "queryName": "query_327",
+    "result": "gl_code_257",
+    "executionTime": 0.006207999999997327
+  },
+  {
+    "queryName": "query_328",
+    "result": "gl_code_273",
+    "executionTime": 0.004625000000000767
+  },
+  {
+    "queryName": "query_329",
+    "result": "gl_code_56",
+    "executionTime": 0.006958000000000908
+  },
+  {
+    "queryName": "query_330",
+    "result": "gl_code_341",
+    "executionTime": 0.004874999999998408
+  },
+  {
+    "queryName": "query_331",
+    "result": "gl_code_880",
+    "executionTime": 0.006624999999999659
+  },
+  {
+    "queryName": "query_332",
+    "result": "gl_code_495",
+    "executionTime": 0.006125000000000824
+  },
+  {
+    "queryName": "query_333",
+    "result": "gl_code_792",
+    "executionTime": 0.007874999999998522
+  },
+  {
+    "queryName": "query_334",
+    "result": "gl_code_768",
+    "executionTime": 0.0067089999999971894
+  },
+  {
+    "queryName": "query_335",
+    "result": "gl_code_308",
+    "executionTime": 0.006541999999999604
+  },
+  {
+    "queryName": "query_336",
+    "result": "gl_code_366",
+    "executionTime": 0.004249999999998977
+  },
+  {
+    "queryName": "query_337",
+    "result": "gl_code_320",
+    "executionTime": 0.005541000000000906
+  },
+  {
+    "queryName": "query_338",
+    "result": "gl_code_660",
+    "executionTime": 0.005583999999998923
+  },
+  {
+    "queryName": "query_339",
+    "result": "gl_code_65",
+    "executionTime": 0.005666999999998978
+  },
+  {
+    "queryName": "query_340",
+    "result": "gl_code_574",
+    "executionTime": 0.004875000000001961
+  },
+  {
+    "queryName": "query_341",
+    "result": "gl_code_806",
+    "executionTime": 0.006707999999999714
+  },
+  {
+    "queryName": "query_342",
+    "result": "gl_code_112",
+    "executionTime": 0.004417000000000115
+  },
+  {
+    "queryName": "query_343",
+    "result": "gl_code_238",
+    "executionTime": 0.006291000000000935
+  },
+  {
+    "queryName": "query_344",
+    "result": "gl_code_672",
+    "executionTime": 0.005583000000001448
+  },
+  {
+    "queryName": "query_345",
+    "result": "gl_code_672",
+    "executionTime": 0.005207999999999657
+  },
+  {
+    "queryName": "query_346",
+    "result": "gl_code_244",
+    "executionTime": 0.005791999999999575
+  },
+  {
+    "queryName": "query_347",
+    "result": "gl_code_292",
+    "executionTime": 0.007082999999997952
+  },
+  {
+    "queryName": "query_348",
+    "result": "gl_code_270",
+    "executionTime": 0.006833000000000311
+  },
+  {
+    "queryName": "query_349",
+    "result": "gl_code_843",
+    "executionTime": 0.0055419999999983816
+  },
+  {
+    "queryName": "query_350",
+    "result": "gl_code_339",
+    "executionTime": 0.007457999999999743
+  },
+  {
+    "queryName": "query_351",
+    "result": "gl_code_425",
+    "executionTime": 0.0069169999999978415
+  },
+  {
+    "queryName": "query_352",
+    "result": "gl_code_571",
+    "executionTime": 0.006833000000000311
+  },
+  {
+    "queryName": "query_353",
+    "result": "gl_code_741",
+    "executionTime": 0.005209000000000685
+  },
+  {
+    "queryName": "query_354",
+    "result": "gl_code_117",
+    "executionTime": 0.0038749999999971863
+  },
+  {
+    "queryName": "query_355",
+    "result": "gl_code_731",
+    "executionTime": 0.005957999999999686
+  },
+  {
+    "queryName": "query_356",
+    "result": "gl_code_881",
+    "executionTime": 0.0058749999999996305
+  },
+  {
+    "queryName": "query_357",
+    "result": "gl_code_323",
+    "executionTime": 0.0058749999999996305
+  },
+  {
+    "queryName": "query_358",
+    "result": "gl_code_430",
+    "executionTime": 0.005792000000003128
+  },
+  {
+    "queryName": "query_359",
+    "result": "gl_code_668",
+    "executionTime": 0.0062080000000008795
+  },
+  {
+    "queryName": "query_360",
+    "result": "gl_code_569",
+    "executionTime": 0.005832999999999089
+  },
+  {
+    "queryName": "query_361",
+    "result": "gl_code_68",
+    "executionTime": 0.0050840000000000884
+  },
+  {
+    "queryName": "query_362",
+    "result": "gl_code_710",
+    "executionTime": 0.006125000000000824
+  },
+  {
+    "queryName": "query_363",
+    "result": "gl_code_616",
+    "executionTime": 0.0070000000000014495
+  },
+  {
+    "queryName": "query_364",
+    "result": "gl_code_371",
+    "executionTime": 0.005500000000001393
+  },
+  {
+    "queryName": "query_365",
+    "result": "gl_code_71",
+    "executionTime": 0.007291999999999632
+  },
+  {
+    "queryName": "query_366",
+    "result": "gl_code_270",
+    "executionTime": 0.0058749999999996305
+  },
+  {
+    "queryName": "query_367",
+    "result": "gl_code_361",
+    "executionTime": 0.005959000000000714
+  },
+  {
+    "queryName": "query_368",
+    "result": "gl_code_415",
+    "executionTime": 0.0069169999999978415
+  },
+  {
+    "queryName": "query_369",
+    "result": "gl_code_521",
+    "executionTime": 0.005249999999996646
+  },
+  {
+    "queryName": "query_370",
+    "result": "gl_code_599",
+    "executionTime": 0.005458000000000851
+  },
+  {
+    "queryName": "query_371",
+    "result": "gl_code_192",
+    "executionTime": 0.005417000000001337
+  },
+  {
+    "queryName": "query_372",
+    "result": "gl_code_840",
+    "executionTime": 0.0055419999999983816
+  },
+  {
+    "queryName": "query_373",
+    "result": "gl_code_105",
+    "executionTime": 0.006541999999999604
+  },
+  {
+    "queryName": "query_374",
+    "result": "gl_code_96",
+    "executionTime": 0.005542000000001934
+  },
+  {
+    "queryName": "query_375",
+    "result": "gl_code_446",
+    "executionTime": 0.005124999999999602
+  },
+  {
+    "queryName": "query_376",
+    "result": "gl_code_950",
+    "executionTime": 0.0058749999999996305
+  },
+  {
+    "queryName": "query_377",
+    "result": "gl_code_469",
+    "executionTime": 0.006916000000000366
+  },
+  {
+    "queryName": "query_378",
+    "result": "gl_code_378",
+    "executionTime": 0.005167000000000144
+  },
+  {
+    "queryName": "query_379",
+    "result": "gl_code_568",
+    "executionTime": 0.0045000000000001705
+  },
+  {
+    "queryName": "query_380",
+    "result": "gl_code_715",
+    "executionTime": 0.006083000000000283
+  },
+  {
+    "queryName": "query_381",
+    "result": "gl_code_719",
+    "executionTime": 0.005500000000001393
+  },
+  {
+    "queryName": "query_382",
+    "result": "gl_code_157",
+    "executionTime": 0.005583000000001448
+  },
+  {
+    "queryName": "query_383",
+    "result": "gl_code_270",
+    "executionTime": 0.006166999999997813
+  },
+  {
+    "queryName": "query_384",
+    "result": "gl_code_599",
+    "executionTime": 0.0048330000000014195
+  },
+  {
+    "queryName": "query_385",
+    "result": "gl_code_668",
+    "executionTime": 0.005417000000001337
+  },
+  {
+    "queryName": "query_386",
+    "result": "gl_code_666",
+    "executionTime": 0.0056659999999979505
+  },
+  {
+    "queryName": "query_387",
+    "result": "gl_code_56",
+    "executionTime": 0.005124999999999602
+  },
+  {
+    "queryName": "query_388",
+    "result": "gl_code_504",
+    "executionTime": 0.005207999999999657
+  },
+  {
+    "queryName": "query_389",
+    "result": "gl_code_309",
+    "executionTime": 0.0058749999999996305
+  },
+  {
+    "queryName": "query_390",
+    "result": "gl_code_192",
+    "executionTime": 0.005041999999999547
+  },
+  {
+    "queryName": "query_391",
+    "result": "gl_code_568",
+    "executionTime": 0.005375000000000796
+  },
+  {
+    "queryName": "query_392",
+    "result": "gl_code_918",
+    "executionTime": 0.005375000000000796
+  },
+  {
+    "queryName": "query_393",
+    "result": "gl_code_335",
+    "executionTime": 0.005749999999999034
+  },
+  {
+    "queryName": "query_394",
+    "result": "gl_code_22",
+    "executionTime": 0.00629199999999841
+  },
+  {
+    "queryName": "query_395",
+    "result": "gl_code_146",
+    "executionTime": 0.004249999999998977
+  },
+  {
+    "queryName": "query_396",
+    "result": "gl_code_601",
+    "executionTime": 0.005832999999999089
+  },
+  {
+    "queryName": "query_397",
+    "result": "gl_code_406",
+    "executionTime": 0.005124999999999602
+  },
+  {
+    "queryName": "query_398",
+    "result": "gl_code_989",
+    "executionTime": 0.006166000000000338
+  },
+  {
+    "queryName": "query_399",
+    "result": "gl_code_566",
+    "executionTime": 0.006875000000000853
+  },
+  {
+    "queryName": "query_400",
+    "result": "gl_code_474",
+    "executionTime": 0.006165999999996785
+  },
+  {
+    "queryName": "query_401",
+    "result": "gl_code_782",
+    "executionTime": 0.00629199999999841
+  },
+  {
+    "queryName": "query_402",
+    "result": "gl_code_287",
+    "executionTime": 0.007166999999999035
+  },
+  {
+    "queryName": "query_403",
+    "result": "gl_code_475",
+    "executionTime": 0.005250000000000199
+  },
+  {
+    "queryName": "query_404",
+    "result": "gl_code_287",
+    "executionTime": 0.0072499999999990905
+  },
+  {
+    "queryName": "query_405",
+    "result": "gl_code_301",
+    "executionTime": 0.0062080000000008795
+  },
+  {
+    "queryName": "query_406",
+    "result": "gl_code_197",
+    "executionTime": 0.0066670000000002005
+  },
+  {
+    "queryName": "query_407",
+    "result": "gl_code_744",
+    "executionTime": 0.006707999999999714
+  },
+  {
+    "queryName": "query_408",
+    "result": "gl_code_146",
+    "executionTime": 0.005500000000001393
+  },
+  {
+    "queryName": "query_409",
+    "result": "gl_code_65",
+    "executionTime": 0.005250000000000199
+  },
+  {
+    "queryName": "query_410",
+    "result": "gl_code_212",
+    "executionTime": 0.006833999999997786
+  },
+  {
+    "queryName": "query_411",
+    "result": "gl_code_66",
+    "executionTime": 0.005250000000000199
+  },
+  {
+    "queryName": "query_412",
+    "result": "gl_code_467",
+    "executionTime": 0.005749999999999034
+  },
+  {
+    "queryName": "query_413",
+    "result": "gl_code_568",
+    "executionTime": 0.006542000000003156
+  },
+  {
+    "queryName": "query_414",
+    "result": "gl_code_161",
+    "executionTime": 0.0052920000000007406
+  },
+  {
+    "queryName": "query_415",
+    "result": "gl_code_974",
+    "executionTime": 0.006207999999997327
+  },
+  {
+    "queryName": "query_416",
+    "result": "gl_code_784",
+    "executionTime": 0.005124999999999602
+  },
+  {
+    "queryName": "query_417",
+    "result": "gl_code_339",
+    "executionTime": 0.006125000000000824
+  },
+  {
+    "queryName": "query_418",
+    "result": "gl_code_159",
+    "executionTime": 0.006332999999997924
+  },
+  {
+    "queryName": "query_419",
+    "result": "gl_code_63",
+    "executionTime": 0.006500000000002615
+  },
+  {
+    "queryName": "query_420",
+    "result": "gl_code_136",
+    "executionTime": 0.0061249999999972715
+  },
+  {
+    "queryName": "query_421",
+    "result": "gl_code_927",
+    "executionTime": 0.004540999999999684
+  },
+  {
+    "queryName": "query_422",
+    "result": "gl_code_161",
+    "executionTime": 0.0047499999999978115
+  },
+  {
+    "queryName": "query_423",
+    "result": "gl_code_113",
+    "executionTime": 0.004708000000000823
+  },
+  {
+    "queryName": "query_424",
+    "result": "gl_code_294",
+    "executionTime": 0.005624999999998437
+  },
+  {
+    "queryName": "query_425",
+    "result": "gl_code_56",
+    "executionTime": 0.005249999999996646
+  },
+  {
+    "queryName": "query_426",
+    "result": "gl_code_440",
+    "executionTime": 0.006333000000001476
+  },
+  {
+    "queryName": "query_427",
+    "result": "gl_code_571",
+    "executionTime": 0.006084000000001311
+  },
+  {
+    "queryName": "query_428",
+    "result": "gl_code_141",
+    "executionTime": 0.006624999999999659
+  },
+  {
+    "queryName": "query_429",
+    "result": "gl_code_255",
+    "executionTime": 0.005790999999998547
+  },
+  {
+    "queryName": "query_430",
+    "result": "gl_code_469",
+    "executionTime": 0.006750000000000256
+  },
+  {
+    "queryName": "query_431",
+    "result": "gl_code_772",
+    "executionTime": 0.006125000000000824
+  },
+  {
+    "queryName": "query_432",
+    "result": "gl_code_161",
+    "executionTime": 0.004332999999999032
+  },
+  {
+    "queryName": "query_433",
+    "result": "gl_code_207",
+    "executionTime": 0.006333999999998952
+  },
+  {
+    "queryName": "query_434",
+    "result": "gl_code_539",
+    "executionTime": 0.006500000000002615
+  },
+  {
+    "queryName": "query_435",
+    "result": "gl_code_929",
+    "executionTime": 0.005374999999997243
+  },
+  {
+    "queryName": "query_436",
+    "result": "gl_code_843",
+    "executionTime": 0.007500000000000284
+  },
+  {
+    "queryName": "query_437",
+    "result": "gl_code_23",
+    "executionTime": 0.006166999999997813
+  },
+  {
+    "queryName": "query_438",
+    "result": "gl_code_574",
+    "executionTime": 0.0045000000000001705
+  },
+  {
+    "queryName": "query_439",
+    "result": "gl_code_267",
+    "executionTime": 0.005749999999999034
+  },
+  {
+    "queryName": "query_440",
+    "result": "gl_code_165",
+    "executionTime": 0.006374999999998465
+  },
+  {
+    "queryName": "query_441",
+    "result": "gl_code_200",
+    "executionTime": 0.005041999999999547
+  },
+  {
+    "queryName": "query_442",
+    "result": "gl_code_536",
+    "executionTime": 0.005041999999999547
+  },
+  {
+    "queryName": "query_443",
+    "result": "gl_code_222",
+    "executionTime": 0.006791999999997245
+  },
+  {
+    "queryName": "query_444",
+    "result": "gl_code_601",
+    "executionTime": 0.004750000000001364
+  },
+  {
+    "queryName": "query_445",
+    "result": "gl_code_840",
+    "executionTime": 0.006499999999999062
+  },
+  {
+    "queryName": "query_446",
+    "result": "gl_code_203",
+    "executionTime": 0.005583000000001448
+  },
+  {
+    "queryName": "query_447",
+    "result": "gl_code_76",
+    "executionTime": 0.004999999999999005
+  },
+  {
+    "queryName": "query_448",
+    "result": "gl_code_287",
+    "executionTime": 0.006374999999998465
+  },
+  {
+    "queryName": "query_449",
+    "result": "gl_code_973",
+    "executionTime": 0.005459000000001879
+  },
+  {
+    "queryName": "query_450",
+    "result": "gl_code_843",
+    "executionTime": 0.005250000000000199
+  },
+  {
+    "queryName": "query_451",
+    "result": "gl_code_927",
+    "executionTime": 0.004625000000000767
+  },
+  {
+    "queryName": "query_452",
+    "result": "gl_code_691",
+    "executionTime": 0.004625000000000767
+  },
+  {
+    "queryName": "query_453",
+    "result": "gl_code_358",
+    "executionTime": 0.005417000000001337
+  },
+  {
+    "queryName": "query_454",
+    "result": "gl_code_708",
+    "executionTime": 0.006416999999999007
+  },
+  {
+    "queryName": "query_455",
+    "result": "gl_code_215",
+    "executionTime": 0.005291999999997188
+  },
+  {
+    "queryName": "query_456",
+    "result": "gl_code_128",
+    "executionTime": 0.006833999999997786
+  },
+  {
+    "queryName": "query_457",
+    "result": "gl_code_65",
+    "executionTime": 0.00608299999999673
+  },
+  {
+    "queryName": "query_458",
+    "result": "gl_code_238",
+    "executionTime": 0.005374999999997243
+  },
+  {
+    "queryName": "query_459",
+    "result": "gl_code_434",
+    "executionTime": 0.005165999999999116
+  },
+  {
+    "queryName": "query_460",
+    "result": "gl_code_499",
+    "executionTime": 0.005624999999998437
+  },
+  {
+    "queryName": "query_461",
+    "result": "gl_code_234",
+    "executionTime": 0.005375000000000796
+  },
+  {
+    "queryName": "query_462",
+    "result": "gl_code_774",
+    "executionTime": 0.00629199999999841
+  },
+  {
+    "queryName": "query_463",
+    "result": "gl_code_44",
+    "executionTime": 0.005666000000001503
+  },
+  {
+    "queryName": "query_464",
+    "result": "gl_code_181",
+    "executionTime": 0.005000000000002558
+  },
+  {
+    "queryName": "query_465",
+    "result": "gl_code_513",
+    "executionTime": 0.005458999999998326
+  },
+  {
+    "queryName": "query_466",
+    "result": "gl_code_494",
+    "executionTime": 0.006750000000000256
+  },
+  {
+    "queryName": "query_467",
+    "result": "gl_code_772",
+    "executionTime": 0.006917000000001394
+  },
+  {
+    "queryName": "query_468",
+    "result": "gl_code_840",
+    "executionTime": 0.006125000000000824
+  },
+  {
+    "queryName": "query_469",
+    "result": "gl_code_371",
+    "executionTime": 0.005458000000000851
+  },
+  {
+    "queryName": "query_470",
+    "result": "gl_code_146",
+    "executionTime": 0.004374999999999574
+  },
+  {
+    "queryName": "query_471",
+    "result": "gl_code_352",
+    "executionTime": 0.006958000000000908
+  },
+  {
+    "queryName": "query_472",
+    "result": "gl_code_141",
+    "executionTime": 0.0072499999999990905
+  },
+  {
+    "queryName": "query_473",
+    "result": "gl_code_645",
+    "executionTime": 0.005207999999999657
+  },
+  {
+    "queryName": "query_474",
+    "result": "gl_code_601",
+    "executionTime": 0.005666999999998978
+  },
+  {
+    "queryName": "query_475",
+    "result": "gl_code_112",
+    "executionTime": 0.00412499999999838
+  },
+  {
+    "queryName": "query_476",
+    "result": "gl_code_475",
+    "executionTime": 0.004541999999997159
+  },
+  {
+    "queryName": "query_477",
+    "result": "gl_code_106",
+    "executionTime": 0.005209000000000685
+  },
+  {
+    "queryName": "query_478",
+    "result": "gl_code_569",
+    "executionTime": 0.005457999999997298
+  },
+  {
+    "queryName": "query_479",
+    "result": "gl_code_693",
+    "executionTime": 0.005500000000001393
+  },
+  {
+    "queryName": "query_480",
+    "result": "gl_code_601",
+    "executionTime": 0.005834000000000117
+  },
+  {
+    "queryName": "query_481",
+    "result": "gl_code_513",
+    "executionTime": 0.005791999999999575
+  },
+  {
+    "queryName": "query_482",
+    "result": "gl_code_339",
+    "executionTime": 0.0070000000000014495
+  },
+  {
+    "queryName": "query_483",
+    "result": "gl_code_568",
+    "executionTime": 0.0045000000000001705
+  },
+  {
+    "queryName": "query_484",
+    "result": "gl_code_843",
+    "executionTime": 0.004166000000001446
+  },
+  {
+    "queryName": "query_485",
+    "result": "gl_code_172",
+    "executionTime": 0.005415999999996757
+  },
+  {
+    "queryName": "query_486",
+    "result": "gl_code_504",
+    "executionTime": 0.004999999999999005
+  },
+  {
+    "queryName": "query_487",
+    "result": "gl_code_244",
+    "executionTime": 0.0064589999999995484
+  },
+  {
+    "queryName": "query_488",
+    "result": "gl_code_812",
+    "executionTime": 0.005709000000003073
+  },
+  {
+    "queryName": "query_489",
+    "result": "gl_code_574",
+    "executionTime": 0.005290999999999713
+  },
+  {
+    "queryName": "query_490",
+    "result": "gl_code_440",
+    "executionTime": 0.005791999999999575
+  },
+  {
+    "queryName": "query_491",
+    "result": "gl_code_96",
+    "executionTime": 0.005834000000000117
+  },
+  {
+    "queryName": "query_492",
+    "result": "gl_code_662",
+    "executionTime": 0.006207999999997327
+  },
+  {
+    "queryName": "query_493",
+    "result": "gl_code_806",
+    "executionTime": 0.00658300000000267
+  },
+  {
+    "queryName": "query_494",
+    "result": "gl_code_556",
+    "executionTime": 0.005541000000000906
+  },
+  {
+    "queryName": "query_495",
+    "result": "gl_code_645",
+    "executionTime": 0.0047499999999978115
+  },
+  {
+    "queryName": "query_496",
+    "result": "gl_code_536",
+    "executionTime": 0.005458999999998326
+  },
+  {
+    "queryName": "query_497",
+    "result": "gl_code_273",
+    "executionTime": 0.004208999999999463
+  },
+  {
+    "queryName": "query_498",
+    "result": "gl_code_684",
+    "executionTime": 0.004457999999999629
+  },
+  {
+    "queryName": "query_499",
+    "result": "gl_code_837",
+    "executionTime": 0.006208999999998355
+  },
+  {
+    "queryName": "query_500",
+    "result": "gl_code_141",
+    "executionTime": 0.0064170000000025595
+  },
+  {
+    "queryName": "query_501",
+    "result": "gl_code_244",
+    "executionTime": 0.005917000000000172
+  },
+  {
+    "queryName": "query_502",
+    "result": "gl_code_56",
+    "executionTime": 0.00658300000000267
+  },
+  {
+    "queryName": "query_503",
+    "result": "gl_code_112",
+    "executionTime": 0.004333000000002585
+  },
+  {
+    "queryName": "query_504",
+    "result": "gl_code_499",
+    "executionTime": 0.005583999999998923
+  },
+  {
+    "queryName": "query_505",
+    "result": "gl_code_270",
+    "executionTime": 0.005917000000000172
+  },
+  {
+    "queryName": "query_506",
+    "result": "gl_code_666",
+    "executionTime": 0.005375000000000796
+  },
+  {
+    "queryName": "query_507",
+    "result": "gl_code_314",
+    "executionTime": 0.006541999999999604
+  },
+  {
+    "queryName": "query_508",
+    "result": "gl_code_772",
+    "executionTime": 0.007041999999998438
+  },
+  {
+    "queryName": "query_509",
+    "result": "gl_code_571",
+    "executionTime": 0.005375000000000796
+  },
+  {
+    "queryName": "query_510",
+    "result": "gl_code_12",
+    "executionTime": 0.006415999999997979
+  },
+  {
+    "queryName": "query_511",
+    "result": "gl_code_599",
+    "executionTime": 0.004791000000000878
+  },
+  {
+    "queryName": "query_512",
+    "result": "gl_code_654",
+    "executionTime": 0.006541999999999604
+  },
+  {
+    "queryName": "query_513",
+    "result": "gl_code_772",
+    "executionTime": 0.006750000000000256
+  },
+  {
+    "queryName": "query_514",
+    "result": "gl_code_841",
+    "executionTime": 0.004791000000000878
+  },
+  {
+    "queryName": "query_515",
+    "result": "gl_code_244",
+    "executionTime": 0.005707999999998492
+  },
+  {
+    "queryName": "query_516",
+    "result": "gl_code_106",
+    "executionTime": 0.005165999999999116
+  },
+  {
+    "queryName": "query_517",
+    "result": "gl_code_410",
+    "executionTime": 0.006125000000000824
+  },
+  {
+    "queryName": "query_518",
+    "result": "gl_code_339",
+    "executionTime": 0.006166999999997813
+  },
+  {
+    "queryName": "query_519",
+    "result": "gl_code_851",
+    "executionTime": 0.006291000000000935
+  },
+  {
+    "queryName": "query_520",
+    "result": "gl_code_410",
+    "executionTime": 0.005915999999999144
+  },
+  {
+    "queryName": "query_521",
+    "result": "gl_code_203",
+    "executionTime": 0.005624999999998437
+  },
+  {
+    "queryName": "query_522",
+    "result": "gl_code_477",
+    "executionTime": 0.005417000000001337
+  },
+  {
+    "queryName": "query_523",
+    "result": "gl_code_12",
+    "executionTime": 0.010417000000000343
+  },
+  {
+    "queryName": "query_524",
+    "result": "gl_code_146",
+    "executionTime": 0.006875000000000853
+  },
+  {
+    "queryName": "query_525",
+    "result": "gl_code_105",
+    "executionTime": 0.005500000000001393
+  },
+  {
+    "queryName": "query_526",
+    "result": "gl_code_610",
+    "executionTime": 0.005750000000002586
+  },
+  {
+    "queryName": "query_527",
+    "result": "gl_code_792",
+    "executionTime": 0.005542000000001934
+  },
+  {
+    "queryName": "query_528",
+    "result": "gl_code_659",
+    "executionTime": 0.008000000000002672
+  },
+  {
+    "queryName": "query_529",
+    "result": "gl_code_792",
+    "executionTime": 0.005624999999998437
+  },
+  {
+    "queryName": "query_530",
+    "result": "gl_code_843",
+    "executionTime": 0.007250000000002643
+  },
+  {
+    "queryName": "query_531",
+    "result": "gl_code_645",
+    "executionTime": 0.007124999999998494
+  },
+  {
+    "queryName": "query_532",
+    "result": "gl_code_117",
+    "executionTime": 0.006167000000001366
+  },
+  {
+    "queryName": "query_533",
+    "result": "gl_code_308",
+    "executionTime": 0.0064170000000025595
+  },
+  {
+    "queryName": "query_534",
+    "result": "gl_code_257",
+    "executionTime": 0.007250000000002643
+  },
+  {
+    "queryName": "query_535",
+    "result": "gl_code_764",
+    "executionTime": 0.005249999999996646
+  },
+  {
+    "queryName": "query_536",
+    "result": "gl_code_792",
+    "executionTime": 0.005833000000002642
+  },
+  {
+    "queryName": "query_537",
+    "result": "gl_code_568",
+    "executionTime": 0.0067909999999997694
+  },
+  {
+    "queryName": "query_538",
+    "result": "gl_code_654",
+    "executionTime": 0.006584000000000145
+  },
+  {
+    "queryName": "query_539",
+    "result": "gl_code_341",
+    "executionTime": 0.00433400000000006
+  },
+  {
+    "queryName": "query_540",
+    "result": "gl_code_732",
+    "executionTime": 0.006125000000000824
+  },
+  {
+    "queryName": "query_541",
+    "result": "gl_code_96",
+    "executionTime": 0.0062080000000008795
+  },
+  {
+    "queryName": "query_542",
+    "result": "gl_code_662",
+    "executionTime": 0.005541000000000906
+  },
+  {
+    "queryName": "query_543",
+    "result": "gl_code_561",
+    "executionTime": 0.00766699999999787
+  },
+  {
+    "queryName": "query_544",
+    "result": "gl_code_294",
+    "executionTime": 0.006500000000002615
+  },
+  {
+    "queryName": "query_545",
+    "result": "gl_code_768",
+    "executionTime": 0.0075830000000003395
+  },
+  {
+    "queryName": "query_546",
+    "result": "gl_code_478",
+    "executionTime": 0.006999999999997897
+  },
+  {
+    "queryName": "query_547",
+    "result": "gl_code_274",
+    "executionTime": 0.004999999999999005
+  },
+  {
+    "queryName": "query_548",
+    "result": "gl_code_339",
+    "executionTime": 0.006250000000001421
+  },
+  {
+    "queryName": "query_549",
+    "result": "gl_code_974",
+    "executionTime": 0.006292000000001963
+  },
+  {
+    "queryName": "query_550",
+    "result": "gl_code_121",
+    "executionTime": 0.007625000000000881
+  },
+  {
+    "queryName": "query_551",
+    "result": "gl_code_760",
+    "executionTime": 0.004958999999999492
+  },
+  {
+    "queryName": "query_552",
+    "result": "gl_code_339",
+    "executionTime": 0.006750000000000256
+  },
+  {
+    "queryName": "query_553",
+    "result": "gl_code_645",
+    "executionTime": 0.004958999999999492
+  },
+  {
+    "queryName": "query_554",
+    "result": "gl_code_304",
+    "executionTime": 0.00804199999999966
+  },
+  {
+    "queryName": "query_555",
+    "result": "gl_code_684",
+    "executionTime": 0.005165999999999116
+  },
+  {
+    "queryName": "query_556",
+    "result": "gl_code_117",
+    "executionTime": 0.005749999999999034
+  },
+  {
+    "queryName": "query_557",
+    "result": "gl_code_238",
+    "executionTime": 0.005917000000000172
+  },
+  {
+    "queryName": "query_558",
+    "result": "gl_code_841",
+    "executionTime": 0.006833999999997786
+  },
+  {
+    "queryName": "query_559",
+    "result": "gl_code_157",
+    "executionTime": 0.0052920000000007406
+  },
+  {
+    "queryName": "query_560",
+    "result": "gl_code_210",
+    "executionTime": 0.006291000000000935
+  },
+  {
+    "queryName": "query_561",
+    "result": "gl_code_161",
+    "executionTime": 0.005666999999998978
+  },
+  {
+    "queryName": "query_562",
+    "result": "gl_code_189",
+    "executionTime": 0.006083000000000283
+  },
+  {
+    "queryName": "query_563",
+    "result": "gl_code_506",
+    "executionTime": 0.006125000000000824
+  },
+  {
+    "queryName": "query_564",
+    "result": "gl_code_285",
+    "executionTime": 0.0069169999999978415
+  },
+  {
+    "queryName": "query_565",
+    "result": "gl_code_423",
+    "executionTime": 0.0066670000000002005
+  },
+  {
+    "queryName": "query_566",
+    "result": "gl_code_660",
+    "executionTime": 0.00804199999999966
+  },
+  {
+    "queryName": "query_567",
+    "result": "gl_code_726",
+    "executionTime": 0.007500000000000284
+  },
+  {
+    "queryName": "query_568",
+    "result": "gl_code_475",
+    "executionTime": 0.004957999999998464
+  },
+  {
+    "queryName": "query_569",
+    "result": "gl_code_475",
+    "executionTime": 0.004958999999999492
+  },
+  {
+    "queryName": "query_570",
+    "result": "gl_code_784",
+    "executionTime": 0.0058749999999996305
+  },
+  {
+    "queryName": "query_571",
+    "result": "gl_code_478",
+    "executionTime": 0.008208000000003324
+  },
+  {
+    "queryName": "query_572",
+    "result": "gl_code_574",
+    "executionTime": 0.004875000000001961
+  },
+  {
+    "queryName": "query_573",
+    "result": "gl_code_67",
+    "executionTime": 0.005458000000000851
+  },
+  {
+    "queryName": "query_574",
+    "result": "gl_code_410",
+    "executionTime": 0.00629199999999841
+  },
+  {
+    "queryName": "query_575",
+    "result": "gl_code_598",
+    "executionTime": 0.009208999999998468
+  },
+  {
+    "queryName": "query_576",
+    "result": "gl_code_468",
+    "executionTime": 0.005750000000002586
+  },
+  {
+    "queryName": "query_577",
+    "result": "gl_code_468",
+    "executionTime": 0.00570899999999952
+  },
+  {
+    "queryName": "query_578",
+    "result": "gl_code_339",
+    "executionTime": 0.006125000000000824
+  },
+  {
+    "queryName": "query_579",
+    "result": "gl_code_411",
+    "executionTime": 0.006541999999999604
+  },
+  {
+    "queryName": "query_580",
+    "result": "gl_code_12",
+    "executionTime": 0.005707999999998492
+  },
+  {
+    "queryName": "query_581",
+    "result": "gl_code_326",
+    "executionTime": 0.007332999999999146
+  },
+  {
+    "queryName": "query_582",
+    "result": "gl_code_121",
+    "executionTime": 0.007207999999998549
+  },
+  {
+    "queryName": "query_583",
+    "result": "gl_code_633",
+    "executionTime": 0.00708399999999898
+  },
+  {
+    "queryName": "query_584",
+    "result": "gl_code_565",
+    "executionTime": 0.006541999999999604
+  },
+  {
+    "queryName": "query_585",
+    "result": "gl_code_106",
+    "executionTime": 0.006916000000000366
+  },
+  {
+    "queryName": "query_586",
+    "result": "gl_code_378",
+    "executionTime": 0.005791999999999575
+  },
+  {
+    "queryName": "query_587",
+    "result": "gl_code_443",
+    "executionTime": 0.006958000000000908
+  },
+  {
+    "queryName": "query_588",
+    "result": "gl_code_339",
+    "executionTime": 0.006707999999999714
+  },
+  {
+    "queryName": "query_589",
+    "result": "gl_code_647",
+    "executionTime": 0.005333000000000254
+  },
+  {
+    "queryName": "query_590",
+    "result": "gl_code_56",
+    "executionTime": 0.006624999999999659
+  },
+  {
+    "queryName": "query_591",
+    "result": "gl_code_23",
+    "executionTime": 0.0056659999999979505
+  },
+  {
+    "queryName": "query_592",
+    "result": "gl_code_690",
+    "executionTime": 0.006582999999999117
+  },
+  {
+    "queryName": "query_593",
+    "result": "gl_code_287",
+    "executionTime": 0.006999999999997897
+  },
+  {
+    "queryName": "query_594",
+    "result": "gl_code_568",
+    "executionTime": 0.0050420000000030996
+  },
+  {
+    "queryName": "query_595",
+    "result": "gl_code_691",
+    "executionTime": 0.03104099999999832
+  },
+  {
+    "queryName": "query_596",
+    "result": "gl_code_410",
+    "executionTime": 0.006415999999997979
+  },
+  {
+    "queryName": "query_597",
+    "result": "gl_code_538",
+    "executionTime": 0.007374999999999687
+  },
+  {
+    "queryName": "query_598",
+    "result": "gl_code_574",
+    "executionTime": 0.00491699999999895
+  },
+  {
+    "queryName": "query_599",
+    "result": "gl_code_56",
+    "executionTime": 0.005124999999999602
+  },
+  {
+    "queryName": "query_600",
+    "result": "gl_code_308",
+    "executionTime": 0.0050829999999990605
+  },
+  {
+    "queryName": "query_601",
+    "result": "gl_code_996",
+    "executionTime": 0.006166000000000338
+  },
+  {
+    "queryName": "query_602",
+    "result": "gl_code_244",
+    "executionTime": 0.005791999999999575
+  },
+  {
+    "queryName": "query_603",
+    "result": "gl_code_339",
+    "executionTime": 0.0053329999999967015
+  },
+  {
+    "queryName": "query_604",
+    "result": "gl_code_339",
+    "executionTime": 0.005500000000001393
+  },
+  {
+    "queryName": "query_605",
+    "result": "gl_code_410",
+    "executionTime": 0.004999999999999005
+  },
+  {
+    "queryName": "query_606",
+    "result": "gl_code_523",
+    "executionTime": 0.007084000000002533
+  },
+  {
+    "queryName": "query_607",
+    "result": "gl_code_843",
+    "executionTime": 0.006125000000000824
+  },
+  {
+    "queryName": "query_608",
+    "result": "gl_code_574",
+    "executionTime": 0.0045000000000001705
+  },
+  {
+    "queryName": "query_609",
+    "result": "gl_code_537",
+    "executionTime": 0.005834000000000117
+  },
+  {
+    "queryName": "query_610",
+    "result": "gl_code_434",
+    "executionTime": 0.006416999999999007
+  },
+  {
+    "queryName": "query_611",
+    "result": "gl_code_841",
+    "executionTime": 0.006167000000001366
+  },
+  {
+    "queryName": "query_612",
+    "result": "gl_code_573",
+    "executionTime": 0.006792000000000797
+  },
+  {
+    "queryName": "query_613",
+    "result": "gl_code_439",
+    "executionTime": 0.005707999999998492
+  },
+  {
+    "queryName": "query_614",
+    "result": "gl_code_439",
+    "executionTime": 0.005834000000000117
+  },
+  {
+    "queryName": "query_615",
+    "result": "gl_code_244",
+    "executionTime": 0.005708000000002045
+  },
+  {
+    "queryName": "query_616",
+    "result": "gl_code_774",
+    "executionTime": 0.006042000000000769
+  },
+  {
+    "queryName": "query_617",
+    "result": "gl_code_197",
+    "executionTime": 0.005708000000002045
+  },
+  {
+    "queryName": "query_618",
+    "result": "gl_code_391",
+    "executionTime": 0.006415999999997979
+  },
+  {
+    "queryName": "query_619",
+    "result": "gl_code_159",
+    "executionTime": 0.005167000000000144
+  },
+  {
+    "queryName": "query_620",
+    "result": "gl_code_75",
+    "executionTime": 0.006915999999996814
+  },
+  {
+    "queryName": "query_621",
+    "result": "gl_code_66",
+    "executionTime": 0.005167000000000144
+  },
+  {
+    "queryName": "query_622",
+    "result": "gl_code_141",
+    "executionTime": 0.0048330000000014195
+  },
+  {
+    "queryName": "query_623",
+    "result": "gl_code_326",
+    "executionTime": 0.005749999999999034
+  },
+  {
+    "queryName": "query_624",
+    "result": "gl_code_917",
+    "executionTime": 0.006333000000001476
+  },
+  {
+    "queryName": "query_625",
+    "result": "gl_code_203",
+    "executionTime": 0.00570899999999952
+  },
+  {
+    "queryName": "query_626",
+    "result": "gl_code_831",
+    "executionTime": 0.005624999999998437
+  },
+  {
+    "queryName": "query_627",
+    "result": "gl_code_635",
+    "executionTime": 0.004832999999997867
+  },
+  {
+    "queryName": "query_628",
+    "result": "gl_code_402",
+    "executionTime": 0.007875000000002075
+  },
+  {
+    "queryName": "query_629",
+    "result": "gl_code_934",
+    "executionTime": 0.005417000000001337
+  },
+  {
+    "queryName": "query_630",
+    "result": "gl_code_159",
+    "executionTime": 0.005583000000001448
+  },
+  {
+    "queryName": "query_631",
+    "result": "gl_code_569",
+    "executionTime": 0.006000000000000227
+  },
+  {
+    "queryName": "query_632",
+    "result": "gl_code_179",
+    "executionTime": 0.006750000000000256
+  },
+  {
+    "queryName": "query_633",
+    "result": "gl_code_197",
+    "executionTime": 0.006083000000000283
+  },
+  {
+    "queryName": "query_634",
+    "result": "gl_code_568",
+    "executionTime": 0.004583000000000226
+  },
+  {
+    "queryName": "query_635",
+    "result": "gl_code_726",
+    "executionTime": 0.0037090000000006285
+  },
+  {
+    "queryName": "query_636",
+    "result": "gl_code_990",
+    "executionTime": 0.006083000000000283
+  },
+  {
+    "queryName": "query_637",
+    "result": "gl_code_569",
+    "executionTime": 0.005790999999998547
+  },
+  {
+    "queryName": "query_638",
+    "result": "gl_code_378",
+    "executionTime": 0.006084000000001311
+  },
+  {
+    "queryName": "query_639",
+    "result": "gl_code_104",
+    "executionTime": 0.005415999999996757
+  },
+  {
+    "queryName": "query_640",
+    "result": "gl_code_378",
+    "executionTime": 0.0050840000000000884
+  },
+  {
+    "queryName": "query_641",
+    "result": "gl_code_654",
+    "executionTime": 0.005583000000001448
+  },
+  {
+    "queryName": "query_642",
+    "result": "gl_code_141",
+    "executionTime": 0.006875000000000853
+  },
+  {
+    "queryName": "query_643",
+    "result": "gl_code_495",
+    "executionTime": 0.004958000000002016
+  },
+  {
+    "queryName": "query_644",
+    "result": "gl_code_701",
+    "executionTime": 0.005582999999997895
+  },
+  {
+    "queryName": "query_645",
+    "result": "gl_code_336",
+    "executionTime": 0.006500000000002615
+  },
+  {
+    "queryName": "query_646",
+    "result": "gl_code_800",
+    "executionTime": 0.00549999999999784
+  },
+  {
+    "queryName": "query_647",
+    "result": "gl_code_323",
+    "executionTime": 0.005749999999999034
+  },
+  {
+    "queryName": "query_648",
+    "result": "gl_code_320",
+    "executionTime": 0.003999999999997783
+  },
+  {
+    "queryName": "query_649",
+    "result": "gl_code_375",
+    "executionTime": 0.005834000000000117
+  },
+  {
+    "queryName": "query_650",
+    "result": "gl_code_760",
+    "executionTime": 0.004457999999999629
+  },
+  {
+    "queryName": "query_651",
+    "result": "gl_code_530",
+    "executionTime": 0.0061249999999972715
+  },
+  {
+    "queryName": "query_652",
+    "result": "gl_code_146",
+    "executionTime": 0.005624999999998437
+  },
+  {
+    "queryName": "query_653",
+    "result": "gl_code_309",
+    "executionTime": 0.006083000000000283
+  },
+  {
+    "queryName": "query_654",
+    "result": "gl_code_244",
+    "executionTime": 0.005749999999999034
+  },
+  {
+    "queryName": "query_655",
+    "result": "gl_code_616",
+    "executionTime": 0.006834000000001339
+  },
+  {
+    "queryName": "query_656",
+    "result": "gl_code_244",
+    "executionTime": 0.005832999999999089
+  },
+  {
+    "queryName": "query_657",
+    "result": "gl_code_65",
+    "executionTime": 0.004582999999996673
+  },
+  {
+    "queryName": "query_658",
+    "result": "gl_code_12",
+    "executionTime": 0.005541000000000906
+  },
+  {
+    "queryName": "query_659",
+    "result": "gl_code_726",
+    "executionTime": 0.005167000000000144
+  },
+  {
+    "queryName": "query_660",
+    "result": "gl_code_339",
+    "executionTime": 0.007916000000001588
+  },
+  {
+    "queryName": "query_661",
+    "result": "gl_code_556",
+    "executionTime": 0.0062080000000008795
+  },
+  {
+    "queryName": "query_662",
+    "result": "gl_code_40",
+    "executionTime": 0.006416999999999007
+  },
+  {
+    "queryName": "query_663",
+    "result": "gl_code_917",
+    "executionTime": 0.004874999999998408
+  },
+  {
+    "queryName": "query_664",
+    "result": "gl_code_192",
+    "executionTime": 0.006040999999999741
+  },
+  {
+    "queryName": "query_665",
+    "result": "gl_code_550",
+    "executionTime": 0.006084000000001311
+  },
+  {
+    "queryName": "query_666",
+    "result": "gl_code_270",
+    "executionTime": 0.005500000000001393
+  },
+  {
+    "queryName": "query_667",
+    "result": "gl_code_366",
+    "executionTime": 0.0050829999999990605
+  },
+  {
+    "queryName": "query_668",
+    "result": "gl_code_943",
+    "executionTime": 0.00549999999999784
+  },
+  {
+    "queryName": "query_669",
+    "result": "gl_code_768",
+    "executionTime": 0.005040999999998519
+  },
+  {
+    "queryName": "query_670",
+    "result": "gl_code_395",
+    "executionTime": 0.007417000000000229
+  },
+  {
+    "queryName": "query_671",
+    "result": "gl_code_792",
+    "executionTime": 0.006416000000001532
+  },
+  {
+    "queryName": "query_672",
+    "result": "gl_code_973",
+    "executionTime": 0.006040999999999741
+  },
+  {
+    "queryName": "query_673",
+    "result": "gl_code_841",
+    "executionTime": 0.0064579999999985205
+  },
+  {
+    "queryName": "query_674",
+    "result": "gl_code_274",
+    "executionTime": 0.004874999999998408
+  },
+  {
+    "queryName": "query_675",
+    "result": "gl_code_917",
+    "executionTime": 0.0050840000000000884
+  },
+  {
+    "queryName": "query_676",
+    "result": "gl_code_88",
+    "executionTime": 0.005374999999997243
+  },
+  {
+    "queryName": "query_677",
+    "result": "gl_code_742",
+    "executionTime": 0.004875000000001961
+  },
+  {
+    "queryName": "query_678",
+    "result": "gl_code_105",
+    "executionTime": 0.006290999999997382
+  },
+  {
+    "queryName": "query_679",
+    "result": "gl_code_778",
+    "executionTime": 0.006084000000001311
+  },
+  {
+    "queryName": "query_680",
+    "result": "gl_code_571",
+    "executionTime": 0.005917000000000172
+  },
+  {
+    "queryName": "query_681",
+    "result": "gl_code_134",
+    "executionTime": 0.004875000000001961
+  },
+  {
+    "queryName": "query_682",
+    "result": "gl_code_927",
+    "executionTime": 0.006333999999998952
+  },
+  {
+    "queryName": "query_683",
+    "result": "gl_code_212",
+    "executionTime": 0.006750000000000256
+  },
+  {
+    "queryName": "query_684",
+    "result": "gl_code_238",
+    "executionTime": 0.005666999999998978
+  },
+  {
+    "queryName": "query_685",
+    "result": "gl_code_633",
+    "executionTime": 0.006624999999999659
+  },
+  {
+    "queryName": "query_686",
+    "result": "gl_code_553",
+    "executionTime": 0.006040999999999741
+  },
+  {
+    "queryName": "query_687",
+    "result": "gl_code_990",
+    "executionTime": 0.006875000000000853
+  },
+  {
+    "queryName": "query_688",
+    "result": "gl_code_44",
+    "executionTime": 0.005959000000000714
+  },
+  {
+    "queryName": "query_689",
+    "result": "gl_code_21",
+    "executionTime": 0.005041999999999547
+  },
+  {
+    "queryName": "query_690",
+    "result": "gl_code_56",
+    "executionTime": 0.0051660000000026685
+  },
+  {
+    "queryName": "query_691",
+    "result": "gl_code_629",
+    "executionTime": 0.0058749999999996305
+  },
+  {
+    "queryName": "query_692",
+    "result": "gl_code_274",
+    "executionTime": 0.005457999999997298
+  },
+  {
+    "queryName": "query_693",
+    "result": "gl_code_493",
+    "executionTime": 0.005124999999999602
+  },
+  {
+    "queryName": "query_694",
+    "result": "gl_code_361",
+    "executionTime": 0.005957999999999686
+  },
+  {
+    "queryName": "query_695",
+    "result": "gl_code_22",
+    "executionTime": 0.006416999999999007
+  },
+  {
+    "queryName": "query_696",
+    "result": "gl_code_668",
+    "executionTime": 0.005624999999998437
+  },
+  {
+    "queryName": "query_697",
+    "result": "gl_code_372",
+    "executionTime": 0.007167000000002588
+  },
+  {
+    "queryName": "query_698",
+    "result": "gl_code_668",
+    "executionTime": 0.006166999999997813
+  },
+  {
+    "queryName": "query_699",
+    "result": "gl_code_124",
+    "executionTime": 0.006624999999999659
+  },
+  {
+    "queryName": "query_700",
+    "result": "gl_code_841",
+    "executionTime": 0.006499999999999062
+  },
+  {
+    "queryName": "query_701",
+    "result": "gl_code_568",
+    "executionTime": 0.005333000000000254
+  },
+  {
+    "queryName": "query_702",
+    "result": "gl_code_446",
+    "executionTime": 0.005124999999999602
+  },
+  {
+    "queryName": "query_703",
+    "result": "gl_code_731",
+    "executionTime": 0.005959000000000714
+  },
+  {
+    "queryName": "query_704",
+    "result": "gl_code_525",
+    "executionTime": 0.005374999999997243
+  },
+  {
+    "queryName": "query_705",
+    "result": "gl_code_927",
+    "executionTime": 0.0058749999999996305
+  },
+  {
+    "queryName": "query_706",
+    "result": "gl_code_617",
+    "executionTime": 0.007332999999999146
+  },
+  {
+    "queryName": "query_707",
+    "result": "gl_code_136",
+    "executionTime": 0.006333000000001476
+  },
+  {
+    "queryName": "query_708",
+    "result": "gl_code_843",
+    "executionTime": 0.004415999999999087
+  },
+  {
+    "queryName": "query_709",
+    "result": "gl_code_274",
+    "executionTime": 0.005124999999999602
+  },
+  {
+    "queryName": "query_710",
+    "result": "gl_code_157",
+    "executionTime": 0.005541000000000906
+  },
+  {
+    "queryName": "query_711",
+    "result": "gl_code_536",
+    "executionTime": 0.006084000000001311
+  },
+  {
+    "queryName": "query_712",
+    "result": "gl_code_274",
+    "executionTime": 0.005041999999999547
+  },
+  {
+    "queryName": "query_713",
+    "result": "gl_code_881",
+    "executionTime": 0.006040999999999741
+  },
+  {
+    "queryName": "query_714",
+    "result": "gl_code_12",
+    "executionTime": 0.006207999999997327
+  },
+  {
+    "queryName": "query_715",
+    "result": "gl_code_231",
+    "executionTime": 0.006582999999999117
+  },
+  {
+    "queryName": "query_716",
+    "result": "gl_code_68",
+    "executionTime": 0.005832999999999089
+  },
+  {
+    "queryName": "query_717",
+    "result": "gl_code_141",
+    "executionTime": 0.007540999999999798
+  },
+  {
+    "queryName": "query_718",
+    "result": "gl_code_136",
+    "executionTime": 0.005207999999999657
+  },
+  {
+    "queryName": "query_719",
+    "result": "gl_code_729",
+    "executionTime": 0.0061249999999972715
+  },
+  {
+    "queryName": "query_720",
+    "result": "gl_code_825",
+    "executionTime": 0.006333000000001476
+  },
+  {
+    "queryName": "query_721",
+    "result": "gl_code_596",
+    "executionTime": 0.00716600000000156
+  },
+  {
+    "queryName": "query_722",
+    "result": "gl_code_27",
+    "executionTime": 0.004957999999998464
+  },
+  {
+    "queryName": "query_723",
+    "result": "gl_code_22",
+    "executionTime": 0.004249999999998977
+  },
+  {
+    "queryName": "query_724",
+    "result": "gl_code_951",
+    "executionTime": 0.005957999999999686
+  },
+  {
+    "queryName": "query_725",
+    "result": "gl_code_660",
+    "executionTime": 0.007291000000002157
+  },
+  {
+    "queryName": "query_726",
+    "result": "gl_code_274",
+    "executionTime": 0.004374999999999574
+  },
+  {
+    "queryName": "query_727",
+    "result": "gl_code_647",
+    "executionTime": 0.006250000000001421
+  },
+  {
+    "queryName": "query_728",
+    "result": "gl_code_326",
+    "executionTime": 0.004915999999997922
+  },
+  {
+    "queryName": "query_729",
+    "result": "gl_code_21",
+    "executionTime": 0.0064589999999995484
+  },
+  {
+    "queryName": "query_730",
+    "result": "gl_code_67",
+    "executionTime": 0.006333000000001476
+  },
+  {
+    "queryName": "query_731",
+    "result": "gl_code_806",
+    "executionTime": 0.005124999999999602
+  },
+  {
+    "queryName": "query_732",
+    "result": "gl_code_74",
+    "executionTime": 0.007291999999999632
+  },
+  {
+    "queryName": "query_733",
+    "result": "gl_code_495",
+    "executionTime": 0.006332999999997924
+  },
+  {
+    "queryName": "query_734",
+    "result": "gl_code_189",
+    "executionTime": 0.005957999999999686
+  },
+  {
+    "queryName": "query_735",
+    "result": "gl_code_525",
+    "executionTime": 0.0061249999999972715
+  },
+  {
+    "queryName": "query_736",
+    "result": "gl_code_841",
+    "executionTime": 0.004875000000001961
+  },
+  {
+    "queryName": "query_737",
+    "result": "gl_code_556",
+    "executionTime": 0.006083000000000283
+  },
+  {
+    "queryName": "query_738",
+    "result": "gl_code_12",
+    "executionTime": 0.00470799999999727
+  },
+  {
+    "queryName": "query_739",
+    "result": "gl_code_660",
+    "executionTime": 0.005167000000000144
+  },
+  {
+    "queryName": "query_740",
+    "result": "gl_code_690",
+    "executionTime": 0.005333000000000254
+  },
+  {
+    "queryName": "query_741",
+    "result": "gl_code_467",
+    "executionTime": 0.0068749999999973
+  },
+  {
+    "queryName": "query_742",
+    "result": "gl_code_65",
+    "executionTime": 0.004666999999997756
+  },
+  {
+    "queryName": "query_743",
+    "result": "gl_code_63",
+    "executionTime": 0.006915999999996814
+  },
+  {
+    "queryName": "query_744",
+    "result": "gl_code_309",
+    "executionTime": 0.0058749999999996305
+  },
+  {
+    "queryName": "query_745",
+    "result": "gl_code_378",
+    "executionTime": 0.005791999999999575
+  },
+  {
+    "queryName": "query_746",
+    "result": "gl_code_635",
+    "executionTime": 0.005583000000001448
+  },
+  {
+    "queryName": "query_747",
+    "result": "gl_code_457",
+    "executionTime": 0.005124999999999602
+  },
+  {
+    "queryName": "query_748",
+    "result": "gl_code_309",
+    "executionTime": 0.007084000000002533
+  },
+  {
+    "queryName": "query_749",
+    "result": "gl_code_568",
+    "executionTime": 0.0058749999999996305
+  },
+  {
+    "queryName": "query_750",
+    "result": "gl_code_896",
+    "executionTime": 0.005834000000000117
+  },
+  {
+    "queryName": "query_751",
+    "result": "gl_code_106",
+    "executionTime": 0.004874999999998408
+  },
+  {
+    "queryName": "query_752",
+    "result": "gl_code_465",
+    "executionTime": 0.004958000000002016
+  },
+  {
+    "queryName": "query_753",
+    "result": "gl_code_660",
+    "executionTime": 0.005083000000002613
+  },
+  {
+    "queryName": "query_754",
+    "result": "gl_code_361",
+    "executionTime": 0.0062080000000008795
+  },
+  {
+    "queryName": "query_755",
+    "result": "gl_code_990",
+    "executionTime": 0.005416999999997785
+  },
+  {
+    "queryName": "query_756",
+    "result": "gl_code_207",
+    "executionTime": 0.007542000000000826
+  },
+  {
+    "queryName": "query_757",
+    "result": "gl_code_306",
+    "executionTime": 0.0062080000000008795
+  },
+  {
+    "queryName": "query_758",
+    "result": "gl_code_257",
+    "executionTime": 0.005167000000000144
+  },
+  {
+    "queryName": "query_759",
+    "result": "gl_code_371",
+    "executionTime": 0.005458999999998326
+  },
+  {
+    "queryName": "query_760",
+    "result": "gl_code_79",
+    "executionTime": 0.00629199999999841
+  },
+  {
+    "queryName": "query_761",
+    "result": "gl_code_141",
+    "executionTime": 0.004915999999997922
+  },
+  {
+    "queryName": "query_762",
+    "result": "gl_code_556",
+    "executionTime": 0.006292000000001963
+  },
+  {
+    "queryName": "query_763",
+    "result": "gl_code_556",
+    "executionTime": 0.004833999999998895
+  },
+  {
+    "queryName": "query_764",
+    "result": "gl_code_459",
+    "executionTime": 0.005334000000001282
+  },
+  {
+    "queryName": "query_765",
+    "result": "gl_code_198",
+    "executionTime": 0.007540999999999798
+  },
+  {
+    "queryName": "query_766",
+    "result": "gl_code_550",
+    "executionTime": 0.008333000000000368
+  },
+  {
+    "queryName": "query_767",
+    "result": "gl_code_410",
+    "executionTime": 0.006415999999997979
+  },
+  {
+    "queryName": "query_768",
+    "result": "gl_code_106",
+    "executionTime": 0.0058749999999996305
+  },
+  {
+    "queryName": "query_769",
+    "result": "gl_code_525",
+    "executionTime": 0.006499999999999062
+  },
+  {
+    "queryName": "query_770",
+    "result": "gl_code_294",
+    "executionTime": 0.005707999999998492
+  },
+  {
+    "queryName": "query_771",
+    "result": "gl_code_666",
+    "executionTime": 0.006709000000000742
+  },
+  {
+    "queryName": "query_772",
+    "result": "gl_code_662",
+    "executionTime": 0.0064589999999995484
+  },
+  {
+    "queryName": "query_773",
+    "result": "gl_code_255",
+    "executionTime": 0.0070000000000014495
+  },
+  {
+    "queryName": "query_774",
+    "result": "gl_code_372",
+    "executionTime": 0.007957999999998577
+  },
+  {
+    "queryName": "query_775",
+    "result": "gl_code_454",
+    "executionTime": 0.006916000000000366
+  },
+  {
+    "queryName": "query_776",
+    "result": "gl_code_571",
+    "executionTime": 0.007542000000000826
+  },
+  {
+    "queryName": "query_777",
+    "result": "gl_code_161",
+    "executionTime": 0.004832999999997867
+  },
+  {
+    "queryName": "query_778",
+    "result": "gl_code_274",
+    "executionTime": 0.00570899999999952
+  },
+  {
+    "queryName": "query_779",
+    "result": "gl_code_633",
+    "executionTime": 0.00629199999999841
+  },
+  {
+    "queryName": "query_780",
+    "result": "gl_code_212",
+    "executionTime": 0.004999999999999005
+  },
+  {
+    "queryName": "query_781",
+    "result": "gl_code_884",
+    "executionTime": 0.0052920000000007406
+  },
+  {
+    "queryName": "query_782",
+    "result": "gl_code_294",
+    "executionTime": 0.006333999999998952
+  },
+  {
+    "queryName": "query_783",
+    "result": "gl_code_320",
+    "executionTime": 0.004625000000000767
+  },
+  {
+    "queryName": "query_784",
+    "result": "gl_code_841",
+    "executionTime": 0.0054160000000003095
+  },
+  {
+    "queryName": "query_785",
+    "result": "gl_code_274",
+    "executionTime": 0.0054160000000003095
+  },
+  {
+    "queryName": "query_786",
+    "result": "gl_code_24",
+    "executionTime": 0.005500000000001393
+  },
+  {
+    "queryName": "query_787",
+    "result": "gl_code_843",
+    "executionTime": 0.005749999999999034
+  },
+  {
+    "queryName": "query_788",
+    "result": "gl_code_423",
+    "executionTime": 0.0058749999999996305
+  },
+  {
+    "queryName": "query_789",
+    "result": "gl_code_146",
+    "executionTime": 0.004208999999999463
+  },
+  {
+    "queryName": "query_790",
+    "result": "gl_code_161",
+    "executionTime": 0.00491699999999895
+  },
+  {
+    "queryName": "query_791",
+    "result": "gl_code_40",
+    "executionTime": 0.006959000000001936
+  },
+  {
+    "queryName": "query_792",
+    "result": "gl_code_666",
+    "executionTime": 0.006750000000000256
+  },
+  {
+    "queryName": "query_793",
+    "result": "gl_code_779",
+    "executionTime": 0.007124999999998494
+  },
+  {
+    "queryName": "query_794",
+    "result": "gl_code_439",
+    "executionTime": 0.007417000000000229
+  },
+  {
+    "queryName": "query_795",
+    "result": "gl_code_401",
+    "executionTime": 0.0073330000000026985
+  },
+  {
+    "queryName": "query_796",
+    "result": "gl_code_474",
+    "executionTime": 0.006958000000000908
+  },
+  {
+    "queryName": "query_797",
+    "result": "gl_code_270",
+    "executionTime": 0.005333000000000254
+  },
+  {
+    "queryName": "query_798",
+    "result": "gl_code_308",
+    "executionTime": 0.005624999999998437
+  },
+  {
+    "queryName": "query_799",
+    "result": "gl_code_708",
+    "executionTime": 0.006958000000000908
+  },
+  {
+    "queryName": "query_800",
+    "result": "gl_code_323",
+    "executionTime": 0.004915999999997922
+  },
+  {
+    "queryName": "query_801",
+    "result": "gl_code_468",
+    "executionTime": 0.006249999999997868
+  },
+  {
+    "queryName": "query_802",
+    "result": "gl_code_843",
+    "executionTime": 0.007374999999999687
+  },
+  {
+    "queryName": "query_803",
+    "result": "gl_code_840",
+    "executionTime": 0.006125000000000824
+  },
+  {
+    "queryName": "query_804",
+    "result": "gl_code_841",
+    "executionTime": 0.006707999999999714
+  },
+  {
+    "queryName": "query_805",
+    "result": "gl_code_272",
+    "executionTime": 0.005334000000001282
+  },
+  {
+    "queryName": "query_806",
+    "result": "gl_code_146",
+    "executionTime": 0.0045000000000001705
+  },
+  {
+    "queryName": "query_807",
+    "result": "gl_code_102",
+    "executionTime": 0.006499999999999062
+  },
+  {
+    "queryName": "query_808",
+    "result": "gl_code_72",
+    "executionTime": 0.006166000000000338
+  },
+  {
+    "queryName": "query_809",
+    "result": "gl_code_157",
+    "executionTime": 0.004332999999999032
+  },
+  {
+    "queryName": "query_810",
+    "result": "gl_code_479",
+    "executionTime": 0.005957999999999686
+  },
+  {
+    "queryName": "query_811",
+    "result": "gl_code_96",
+    "executionTime": 0.005957999999999686
+  },
+  {
+    "queryName": "query_812",
+    "result": "gl_code_990",
+    "executionTime": 0.006333000000001476
+  },
+  {
+    "queryName": "query_813",
+    "result": "gl_code_630",
+    "executionTime": 0.006958999999998383
+  },
+  {
+    "queryName": "query_814",
+    "result": "gl_code_555",
+    "executionTime": 0.005583000000001448
+  },
+  {
+    "queryName": "query_815",
+    "result": "gl_code_256",
+    "executionTime": 0.006999999999997897
+  },
+  {
+    "queryName": "query_816",
+    "result": "gl_code_806",
+    "executionTime": 0.006916000000000366
+  },
+  {
+    "queryName": "query_817",
+    "result": "gl_code_840",
+    "executionTime": 0.008583999999999037
+  },
+  {
+    "queryName": "query_818",
+    "result": "gl_code_570",
+    "executionTime": 0.008499999999997954
+  },
+  {
+    "queryName": "query_819",
+    "result": "gl_code_309",
+    "executionTime": 0.008082999999999174
+  },
+  {
+    "queryName": "query_820",
+    "result": "gl_code_248",
+    "executionTime": 0.008333999999997843
+  },
+  {
+    "queryName": "query_821",
+    "result": "gl_code_71",
+    "executionTime": 0.0070000000000014495
+  },
+  {
+    "queryName": "query_822",
+    "result": "gl_code_843",
+    "executionTime": 0.006083000000000283
+  },
+  {
+    "queryName": "query_823",
+    "result": "gl_code_502",
+    "executionTime": 0.006166999999997813
+  },
+  {
+    "queryName": "query_824",
+    "result": "gl_code_511",
+    "executionTime": 0.007917000000002616
+  },
+  {
+    "queryName": "query_825",
+    "result": "gl_code_475",
+    "executionTime": 0.0045000000000001705
+  },
+  {
+    "queryName": "query_826",
+    "result": "gl_code_402",
+    "executionTime": 0.007457999999999743
+  },
+  {
+    "queryName": "query_827",
+    "result": "gl_code_708",
+    "executionTime": 0.0072499999999990905
+  },
+  {
+    "queryName": "query_828",
+    "result": "gl_code_568",
+    "executionTime": 0.005167000000000144
+  },
+  {
+    "queryName": "query_829",
+    "result": "gl_code_990",
+    "executionTime": 0.005291999999997188
+  },
+  {
+    "queryName": "query_830",
+    "result": "gl_code_274",
+    "executionTime": 0.005041000000002072
+  },
+  {
+    "queryName": "query_831",
+    "result": "gl_code_12",
+    "executionTime": 0.005584000000002476
+  },
+  {
+    "queryName": "query_832",
+    "result": "gl_code_610",
+    "executionTime": 0.0050829999999990605
+  },
+  {
+    "queryName": "query_833",
+    "result": "gl_code_239",
+    "executionTime": 0.006917000000001394
+  },
+  {
+    "queryName": "query_834",
+    "result": "gl_code_208",
+    "executionTime": 0.006792000000000797
+  },
+  {
+    "queryName": "query_835",
+    "result": "gl_code_273",
+    "executionTime": 0.0058749999999996305
+  },
+  {
+    "queryName": "query_836",
+    "result": "gl_code_123",
+    "executionTime": 0.005375000000000796
+  },
+  {
+    "queryName": "query_837",
+    "result": "gl_code_861",
+    "executionTime": 0.0072499999999990905
+  },
+  {
+    "queryName": "query_838",
+    "result": "gl_code_161",
+    "executionTime": 0.004790999999997325
+  },
+  {
+    "queryName": "query_839",
+    "result": "gl_code_74",
+    "executionTime": 0.006333000000001476
+  },
+  {
+    "queryName": "query_840",
+    "result": "gl_code_726",
+    "executionTime": 0.0048330000000014195
+  },
+  {
+    "queryName": "query_841",
+    "result": "gl_code_405",
+    "executionTime": 0.006499999999999062
+  },
+  {
+    "queryName": "query_842",
+    "result": "gl_code_233",
+    "executionTime": 0.006666000000002725
+  },
+  {
+    "queryName": "query_843",
+    "result": "gl_code_377",
+    "executionTime": 0.006624999999999659
+  },
+  {
+    "queryName": "query_844",
+    "result": "gl_code_105",
+    "executionTime": 0.006166000000000338
+  },
+  {
+    "queryName": "query_845",
+    "result": "gl_code_778",
+    "executionTime": 0.006792000000000797
+  },
+  {
+    "queryName": "query_846",
+    "result": "gl_code_448",
+    "executionTime": 0.005291999999997188
+  },
+  {
+    "queryName": "query_847",
+    "result": "gl_code_157",
+    "executionTime": 0.005500000000001393
+  },
+  {
+    "queryName": "query_848",
+    "result": "gl_code_273",
+    "executionTime": 0.0050829999999990605
+  },
+  {
+    "queryName": "query_849",
+    "result": "gl_code_881",
+    "executionTime": 0.005458000000000851
+  },
+  {
+    "queryName": "query_850",
+    "result": "gl_code_660",
+    "executionTime": 0.007874999999998522
+  },
+  {
+    "queryName": "query_851",
+    "result": "gl_code_440",
+    "executionTime": 0.006000000000000227
+  },
+  {
+    "queryName": "query_852",
+    "result": "gl_code_467",
+    "executionTime": 0.007083000000001505
+  },
+  {
+    "queryName": "query_853",
+    "result": "gl_code_161",
+    "executionTime": 0.004874999999998408
+  },
+  {
+    "queryName": "query_854",
+    "result": "gl_code_273",
+    "executionTime": 0.006374999999998465
+  },
+  {
+    "queryName": "query_855",
+    "result": "gl_code_843",
+    "executionTime": 0.006584000000000145
+  },
+  {
+    "queryName": "query_856",
+    "result": "gl_code_56",
+    "executionTime": 0.007084000000002533
+  },
+  {
+    "queryName": "query_857",
+    "result": "gl_code_117",
+    "executionTime": 0.006000000000000227
+  },
+  {
+    "queryName": "query_858",
+    "result": "gl_code_93",
+    "executionTime": 0.006249999999997868
+  },
+  {
+    "queryName": "query_859",
+    "result": "gl_code_601",
+    "executionTime": 0.0066670000000002005
+  },
+  {
+    "queryName": "query_860",
+    "result": "gl_code_141",
+    "executionTime": 0.007542000000000826
+  },
+  {
+    "queryName": "query_861",
+    "result": "gl_code_21",
+    "executionTime": 0.005957999999999686
+  },
+  {
+    "queryName": "query_862",
+    "result": "gl_code_365",
+    "executionTime": 0.007708000000000936
+  },
+  {
+    "queryName": "query_863",
+    "result": "gl_code_742",
+    "executionTime": 0.005708000000002045
+  },
+  {
+    "queryName": "query_864",
+    "result": "gl_code_726",
+    "executionTime": 0.006875000000000853
+  },
+  {
+    "queryName": "query_865",
+    "result": "gl_code_760",
+    "executionTime": 0.006166999999997813
+  },
+  {
+    "queryName": "query_866",
+    "result": "gl_code_973",
+    "executionTime": 0.007374999999999687
+  },
+  {
+    "queryName": "query_867",
+    "result": "gl_code_245",
+    "executionTime": 0.008875000000003297
+  },
+  {
+    "queryName": "query_868",
+    "result": "gl_code_841",
+    "executionTime": 0.0061249999999972715
+  },
+  {
+    "queryName": "query_869",
+    "result": "gl_code_732",
+    "executionTime": 0.006542000000003156
+  },
+  {
+    "queryName": "query_870",
+    "result": "gl_code_610",
+    "executionTime": 0.005374999999997243
+  },
+  {
+    "queryName": "query_871",
+    "result": "gl_code_112",
+    "executionTime": 0.0045000000000001705
+  },
+  {
+    "queryName": "query_872",
+    "result": "gl_code_536",
+    "executionTime": 0.006083000000000283
+  },
+  {
+    "queryName": "query_873",
+    "result": "gl_code_633",
+    "executionTime": 0.005915999999999144
+  },
+  {
+    "queryName": "query_874",
+    "result": "gl_code_568",
+    "executionTime": 0.0052920000000007406
+  },
+  {
+    "queryName": "query_875",
+    "result": "gl_code_841",
+    "executionTime": 0.005542000000001934
+  },
+  {
+    "queryName": "query_876",
+    "result": "gl_code_18",
+    "executionTime": 0.004708000000000823
+  },
+  {
+    "queryName": "query_877",
+    "result": "gl_code_294",
+    "executionTime": 0.004957999999998464
+  },
+  {
+    "queryName": "query_878",
+    "result": "gl_code_161",
+    "executionTime": 0.005290999999999713
+  },
+  {
+    "queryName": "query_879",
+    "result": "gl_code_192",
+    "executionTime": 0.006084000000001311
+  },
+  {
+    "queryName": "query_880",
+    "result": "gl_code_244",
+    "executionTime": 0.005458999999998326
+  },
+  {
+    "queryName": "query_881",
+    "result": "gl_code_917",
+    "executionTime": 0.0061249999999972715
+  },
+  {
+    "queryName": "query_882",
+    "result": "gl_code_440",
+    "executionTime": 0.0062080000000008795
+  },
+  {
+    "queryName": "query_883",
+    "result": "gl_code_843",
+    "executionTime": 0.007667000000001423
+  },
+  {
+    "queryName": "query_884",
+    "result": "gl_code_159",
+    "executionTime": 0.005583000000001448
+  },
+  {
+    "queryName": "query_885",
+    "result": "gl_code_686",
+    "executionTime": 0.007750000000001478
+  },
+  {
+    "queryName": "query_886",
+    "result": "gl_code_934",
+    "executionTime": 0.0064579999999985205
+  },
+  {
+    "queryName": "query_887",
+    "result": "gl_code_477",
+    "executionTime": 0.005500000000001393
+  },
+  {
+    "queryName": "query_888",
+    "result": "gl_code_200",
+    "executionTime": 0.005957999999999686
+  },
+  {
+    "queryName": "query_889",
+    "result": "gl_code_200",
+    "executionTime": 0.005666999999998978
+  },
+  {
+    "queryName": "query_890",
+    "result": "gl_code_485",
+    "executionTime": 0.006084000000001311
+  },
+  {
+    "queryName": "query_891",
+    "result": "gl_code_726",
+    "executionTime": 0.005832999999999089
+  },
+  {
+    "queryName": "query_892",
+    "result": "gl_code_525",
+    "executionTime": 0.005250000000000199
+  },
+  {
+    "queryName": "query_893",
+    "result": "gl_code_74",
+    "executionTime": 0.007042000000001991
+  },
+  {
+    "queryName": "query_894",
+    "result": "gl_code_741",
+    "executionTime": 0.007041999999998438
+  },
+  {
+    "queryName": "query_895",
+    "result": "gl_code_934",
+    "executionTime": 0.006125000000000824
+  },
+  {
+    "queryName": "query_896",
+    "result": "gl_code_571",
+    "executionTime": 0.006333999999998952
+  },
+  {
+    "queryName": "query_897",
+    "result": "gl_code_339",
+    "executionTime": 0.006709000000000742
+  },
+  {
+    "queryName": "query_898",
+    "result": "gl_code_141",
+    "executionTime": 0.005374999999997243
+  },
+  {
+    "queryName": "query_899",
+    "result": "gl_code_454",
+    "executionTime": 0.005041999999999547
+  },
+  {
+    "queryName": "query_900",
+    "result": "gl_code_200",
+    "executionTime": 0.004958999999999492
+  },
+  {
+    "queryName": "query_901",
+    "result": "gl_code_703",
+    "executionTime": 0.007541999999997273
+  },
+  {
+    "queryName": "query_902",
+    "result": "gl_code_668",
+    "executionTime": 0.00658300000000267
+  },
+  {
+    "queryName": "query_903",
+    "result": "gl_code_257",
+    "executionTime": 0.005375000000000796
+  },
+  {
+    "queryName": "query_904",
+    "result": "gl_code_772",
+    "executionTime": 0.006083000000000283
+  },
+  {
+    "queryName": "query_905",
+    "result": "gl_code_539",
+    "executionTime": 0.006750000000000256
+  },
+  {
+    "queryName": "query_906",
+    "result": "gl_code_851",
+    "executionTime": 0.006416999999999007
+  },
+  {
+    "queryName": "query_907",
+    "result": "gl_code_63",
+    "executionTime": 0.006500000000002615
+  },
+  {
+    "queryName": "query_908",
+    "result": "gl_code_146",
+    "executionTime": 0.006167000000001366
+  },
+  {
+    "queryName": "query_909",
+    "result": "gl_code_361",
+    "executionTime": 0.004874999999998408
+  },
+  {
+    "queryName": "query_910",
+    "result": "gl_code_792",
+    "executionTime": 0.005917000000000172
+  },
+  {
+    "queryName": "query_911",
+    "result": "gl_code_708",
+    "executionTime": 0.007917000000002616
+  },
+  {
+    "queryName": "query_912",
+    "result": "gl_code_719",
+    "executionTime": 0.008499999999997954
+  },
+  {
+    "queryName": "query_913",
+    "result": "gl_code_37",
+    "executionTime": 0.006582999999999117
+  },
+  {
+    "queryName": "query_914",
+    "result": "gl_code_927",
+    "executionTime": 0.005875000000003183
+  },
+  {
+    "queryName": "query_915",
+    "result": "gl_code_56",
+    "executionTime": 0.007334000000000174
+  },
+  {
+    "queryName": "query_916",
+    "result": "gl_code_274",
+    "executionTime": 0.005583000000001448
+  },
+  {
+    "queryName": "query_917",
+    "result": "gl_code_485",
+    "executionTime": 0.006041999999997216
+  },
+  {
+    "queryName": "query_918",
+    "result": "gl_code_231",
+    "executionTime": 0.007916999999999064
+  },
+  {
+    "queryName": "query_919",
+    "result": "gl_code_208",
+    "executionTime": 0.009000000000000341
+  },
+  {
+    "queryName": "query_920",
+    "result": "gl_code_141",
+    "executionTime": 0.0072499999999990905
+  },
+  {
+    "queryName": "query_921",
+    "result": "gl_code_599",
+    "executionTime": 0.00804199999999966
+  },
+  {
+    "queryName": "query_922",
+    "result": "gl_code_954",
+    "executionTime": 0.009707999999999828
+  },
+  {
+    "queryName": "query_923",
+    "result": "gl_code_658",
+    "executionTime": 0.006707999999999714
+  },
+  {
+    "queryName": "query_924",
+    "result": "gl_code_339",
+    "executionTime": 0.006084000000001311
+  },
+  {
+    "queryName": "query_925",
+    "result": "gl_code_200",
+    "executionTime": 0.005707999999998492
+  },
+  {
+    "queryName": "query_926",
+    "result": "gl_code_927",
+    "executionTime": 0.006792000000000797
+  },
+  {
+    "queryName": "query_927",
+    "result": "gl_code_215",
+    "executionTime": 0.006083000000000283
+  },
+  {
+    "queryName": "query_928",
+    "result": "gl_code_121",
+    "executionTime": 0.007875000000002075
+  },
+  {
+    "queryName": "query_929",
+    "result": "gl_code_56",
+    "executionTime": 0.006083000000000283
+  },
+  {
+    "queryName": "query_930",
+    "result": "gl_code_339",
+    "executionTime": 0.006125000000000824
+  },
+  {
+    "queryName": "query_931",
+    "result": "gl_code_574",
+    "executionTime": 0.005124999999999602
+  },
+  {
+    "queryName": "query_932",
+    "result": "gl_code_843",
+    "executionTime": 0.006084000000001311
+  },
+  {
+    "queryName": "query_933",
+    "result": "gl_code_927",
+    "executionTime": 0.006707999999999714
+  },
+  {
+    "queryName": "query_934",
+    "result": "gl_code_12",
+    "executionTime": 0.006041999999997216
+  },
+  {
+    "queryName": "query_935",
+    "result": "gl_code_726",
+    "executionTime": 0.007166999999999035
+  },
+  {
+    "queryName": "query_936",
+    "result": "gl_code_917",
+    "executionTime": 0.006957999999997355
+  },
+  {
+    "queryName": "query_937",
+    "result": "gl_code_662",
+    "executionTime": 0.006584000000000145
+  },
+  {
+    "queryName": "query_938",
+    "result": "gl_code_537",
+    "executionTime": 0.0066670000000002005
+  },
+  {
+    "queryName": "query_939",
+    "result": "gl_code_990",
+    "executionTime": 0.006292000000001963
+  },
+  {
+    "queryName": "query_940",
+    "result": "gl_code_551",
+    "executionTime": 0.007207999999998549
+  },
+  {
+    "queryName": "query_941",
+    "result": "gl_code_197",
+    "executionTime": 0.006750000000000256
+  },
+  {
+    "queryName": "query_942",
+    "result": "gl_code_161",
+    "executionTime": 0.005708000000002045
+  },
+  {
+    "queryName": "query_943",
+    "result": "gl_code_44",
+    "executionTime": 0.005957999999999686
+  },
+  {
+    "queryName": "query_944",
+    "result": "gl_code_113",
+    "executionTime": 0.005792000000003128
+  },
+  {
+    "queryName": "query_945",
+    "result": "gl_code_546",
+    "executionTime": 0.008458000000000965
+  },
+  {
+    "queryName": "query_946",
+    "result": "gl_code_610",
+    "executionTime": 0.008791000000002214
+  },
+  {
+    "queryName": "query_947",
+    "result": "gl_code_157",
+    "executionTime": 0.0066670000000002005
+  },
+  {
+    "queryName": "query_948",
+    "result": "gl_code_12",
+    "executionTime": 0.006624999999999659
+  },
+  {
+    "queryName": "query_949",
+    "result": "gl_code_361",
+    "executionTime": 0.006207999999997327
+  },
+  {
+    "queryName": "query_950",
+    "result": "gl_code_843",
+    "executionTime": 0.005333000000000254
+  },
+  {
+    "queryName": "query_951",
+    "result": "gl_code_27",
+    "executionTime": 0.0050840000000000884
+  },
+  {
+    "queryName": "query_952",
+    "result": "gl_code_943",
+    "executionTime": 0.00708399999999898
+  },
+  {
+    "queryName": "query_953",
+    "result": "gl_code_568",
+    "executionTime": 0.0066670000000002005
+  },
+  {
+    "queryName": "query_954",
+    "result": "gl_code_102",
+    "executionTime": 0.007083000000001505
+  },
+  {
+    "queryName": "query_955",
+    "result": "gl_code_555",
+    "executionTime": 0.0062080000000008795
+  },
+  {
+    "queryName": "query_956",
+    "result": "gl_code_917",
+    "executionTime": 0.008167000000000257
+  },
+  {
+    "queryName": "query_957",
+    "result": "gl_code_316",
+    "executionTime": 0.008832999999999203
+  },
+  {
+    "queryName": "query_958",
+    "result": "gl_code_159",
+    "executionTime": 0.00862499999999855
+  },
+  {
+    "queryName": "query_959",
+    "result": "gl_code_902",
+    "executionTime": 0.0064579999999985205
+  },
+  {
+    "queryName": "query_960",
+    "result": "gl_code_106",
+    "executionTime": 0.005250000000000199
+  },
+  {
+    "queryName": "query_961",
+    "result": "gl_code_813",
+    "executionTime": 0.007667000000001423
+  },
+  {
+    "queryName": "query_962",
+    "result": "gl_code_56",
+    "executionTime": 0.006999999999997897
+  },
+  {
+    "queryName": "query_963",
+    "result": "gl_code_56",
+    "executionTime": 0.005624999999998437
+  },
+  {
+    "queryName": "query_964",
+    "result": "gl_code_161",
+    "executionTime": 0.005207999999999657
+  },
+  {
+    "queryName": "query_965",
+    "result": "gl_code_896",
+    "executionTime": 0.006332999999997924
+  },
+  {
+    "queryName": "query_966",
+    "result": "gl_code_378",
+    "executionTime": 0.005917000000000172
+  },
+  {
+    "queryName": "query_967",
+    "result": "gl_code_341",
+    "executionTime": 0.00441600000000264
+  },
+  {
+    "queryName": "query_968",
+    "result": "gl_code_236",
+    "executionTime": 0.005834000000000117
+  },
+  {
+    "queryName": "query_969",
+    "result": "gl_code_244",
+    "executionTime": 0.005584000000002476
+  },
+  {
+    "queryName": "query_970",
+    "result": "gl_code_159",
+    "executionTime": 0.005832999999999089
+  },
+  {
+    "queryName": "query_971",
+    "result": "gl_code_203",
+    "executionTime": 0.005834000000000117
+  },
+  {
+    "queryName": "query_972",
+    "result": "gl_code_159",
+    "executionTime": 0.0055419999999983816
+  },
+  {
+    "queryName": "query_973",
+    "result": "gl_code_660",
+    "executionTime": 0.0050829999999990605
+  },
+  {
+    "queryName": "query_974",
+    "result": "gl_code_374",
+    "executionTime": 0.005832999999999089
+  },
+  {
+    "queryName": "query_975",
+    "result": "gl_code_29",
+    "executionTime": 0.007458999999997218
+  },
+  {
+    "queryName": "query_976",
+    "result": "gl_code_321",
+    "executionTime": 0.0067089999999971894
+  },
+  {
+    "queryName": "query_977",
+    "result": "gl_code_525",
+    "executionTime": 0.005124999999999602
+  },
+  {
+    "queryName": "query_978",
+    "result": "gl_code_917",
+    "executionTime": 0.0072499999999990905
+  },
+  {
+    "queryName": "query_979",
+    "result": "gl_code_934",
+    "executionTime": 0.007334000000000174
+  },
+  {
+    "queryName": "query_980",
+    "result": "gl_code_439",
+    "executionTime": 0.007457999999999743
+  },
+  {
+    "queryName": "query_981",
+    "result": "gl_code_320",
+    "executionTime": 0.006374999999998465
+  },
+  {
+    "queryName": "query_982",
+    "result": "gl_code_768",
+    "executionTime": 0.008499999999997954
+  },
+  {
+    "queryName": "query_983",
+    "result": "gl_code_186",
+    "executionTime": 0.007874999999998522
+  },
+  {
+    "queryName": "query_984",
+    "result": "gl_code_884",
+    "executionTime": 0.00737500000000324
+  },
+  {
+    "queryName": "query_985",
+    "result": "gl_code_320",
+    "executionTime": 0.006499999999999062
+  },
+  {
+    "queryName": "query_986",
+    "result": "gl_code_198",
+    "executionTime": 0.008082999999999174
+  },
+  {
+    "queryName": "query_987",
+    "result": "gl_code_691",
+    "executionTime": 0.006999999999997897
+  },
+  {
+    "queryName": "query_988",
+    "result": "gl_code_339",
+    "executionTime": 0.008416999999997898
+  },
+  {
+    "queryName": "query_989",
+    "result": "gl_code_320",
+    "executionTime": 0.007291000000002157
+  },
+  {
+    "queryName": "query_990",
+    "result": "gl_code_212",
+    "executionTime": 0.008207999999999771
+  },
+  {
+    "queryName": "query_991",
+    "result": "gl_code_23",
+    "executionTime": 0.007290999999998604
+  },
+  {
+    "queryName": "query_992",
+    "result": "gl_code_943",
+    "executionTime": 0.005791999999999575
+  },
+  {
+    "queryName": "query_993",
+    "result": "gl_code_179",
+    "executionTime": 0.007416999999996676
+  },
+  {
+    "queryName": "query_994",
+    "result": "gl_code_439",
+    "executionTime": 0.009957999999997469
+  },
+  {
+    "queryName": "query_995",
+    "result": "gl_code_244",
+    "executionTime": 0.005957999999999686
+  },
+  {
+    "queryName": "query_996",
+    "result": "gl_code_106",
+    "executionTime": 0.006250000000001421
+  },
+  {
+    "queryName": "query_997",
+    "result": "gl_code_666",
+    "executionTime": 0.006374999999998465
+  },
+  {
+    "queryName": "query_998",
+    "result": "gl_code_273",
+    "executionTime": 0.0064579999999985205
+  },
+  {
+    "queryName": "query_999",
+    "result": "gl_code_320",
+    "executionTime": 0.005333000000000254
+  },
+  {
+    "queryName": "query_1000",
+    "result": "gl_code_294",
+    "executionTime": 0.005250000000000199
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "graphlib": "^2.1.8",
+    "graphology": "^0.25.4",
+    "graphology-shortest-path": "^2.1.0",
+    "perf_hooks": "^0.0.1",
+    "uuid": "^10.0.0"
+  }
+}
